@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\menu\\camera_menu.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\menu\\camera_menu.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="connect_loop1">連接中...</string>
+    <string name="connect_loop2">連接中...</string>
+    <string name="connect_loop3">連接中...</string>
+
+    <string name="fragment_notification_list_created_righ_now">立刻</string>
+    <string name="fragment_notification_list_created_time">%1$s%2$s之前</string>
+
+    <string name="privacy_policy">隱私條款</string>
+    <string name="terms_and_conditions">條款與條件</string>
+    <string name="copyright">版權 © 2014</string>
+    <string name="connected_ltd">CONNECTEDEVICE有限公司版權所有</string>
+
+    <string name="pref_private">文本</string>
+    <string name="pref_social">社會的</string>
+    <string name="pref_mail">郵件</string>
+    <string name="pref_event">事件</string>
+    <string name="pref_battery">電池</string>
+    <string name="pref_phone">電話</string>
+    <string name="pref_voicemail">語音信箱</string>
+
+    <string name="ok">好</string>
+
+
+    <string name="app_name">已連接</string>
+    <string name="action_settings">設置</string>
+    <string name="ble_not_supported">不支持低功耗藍牙</string>
+    <string name="label_data">數據:</string>
+    <string name="label_device_address">設備地址:</string>
+    <string name="label_state">狀態:</string>
+    <string name="no_data">無數據</string>
+    <string name="connected">，已連接</string>
+    <string name="not_connected">，未連接</string>
+    <string name="title_devices">低功耗藍牙設備掃描</string>
+    <string name="error_bluetooth_not_supported">不支持藍牙。</string>
+    <string name="paired">已配對</string>
+    <string name="not_paired">未配對</string>
+
+    <string name="unknown_device">未知設備</string>
+    <string name="unknown_characteristic">未知特征</string>
+    <string name="unknown_service">未知服務</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">連接</string>
+    <string name="menu_disconnect">斷開連接</string>
+    <string name="menu_scan">掃描</string>
+    <string name="menu_stop">停止</string>
+
+    <string name="str_image_processing">圖像處理中</string>
+
+    <string name="device_settings_title_short_press">短(0-2秒)</string>
+    <string name="device_settings_title_medium_press">中(24秒)</string>
+    <string name="device_settings_title_long_press">長(4秒以上)</string>
+    <string name="device_settings_title_alerts">提醒</string>
+    <string name="device_settings_title_battery_levels">電池</string>
+    <string name="device_settings_title_command_button">命令按鈕</string>
+    <string name="device_settings_press_find_android">找到我的電話</string>
+
+    <string name="old_firmware_warn">通知</string>
+    <string name="old_firmware_message">運行手錶軟件v1.0.0004的設備可能需要PIN碼以配對。如出現提示請輸入000000。</string>
+
+    <string name="no">不</string>
+    <string name="already_connected">你的手錶已連接。</string>
+    <string name="connect">連接</string>
+    <string name="unpair">取消配對</string>
+    <string name="already_bonded">首先確定你的手錶電源已打開並在範圍內。如果你有其它的關聯手錶，請先確定它們的電源已關閉。</string>
+    <string name="skip">跳過 &gt;</string>
+
+    <string name="out_of_range">不在範圍內</string>
+    <string name="disconnected">設備已斷開連接。</string>
+    <string name="problems_conn">無法連接</string>
+    <string name="cycle_bluetooth">先確定你的手錶電源已開啟並在範圍內。然後按重啟藍牙。</string>
+    <string name="restart_bluetooth">重啟藍牙</string>
+    <string name="cycling_bluetooth">藍牙重啟中</string>
+    <string name="attempting_conn">正在嘗試連接中。你想取消嗎？</string>
+    <string name="device_is_oor">你嘗試連接的設備不在範圍內或者電源已關閉。</string>
+    <string name="device_is_oos">請將設備調成配對模式再嘗試連接。</string>
+    <string name="out_of_sync">手錶不同步</string>
+
+    <string name="not_in_range">手錶不在範圍內。請在連接之前將它至於範圍內。</string>
+
+
+    <string name="attempting_connection">嘗試連接中</string>
+    <string name="device_connecting">設備正在連接中</string>
+    <string name="set_up_notifications">設置通知</string>
+
+    <string name="notifications">啟用通知</string>
+    <string name="notification_perm">請在方框內打勾以同意接收通知，然後在手機上輕觸返回鍵。</string>
+    <string name="welcome">歡迎來到the COOKOO Life應用。</string>
+    <string name="notification_recheck">請在方框內先取消勾選再重新勾選以重新開始接受通知。</string>
+    <string name="notifications_stopped">通知已停止。</string>
+
+    <string name="camera_unsupported">不支持已選擇的相機。</string>
+
+    <string name="try_steps">嘗試以下做法:</string>
+    <string name="try_step_1">1. 關閉手錶</string>
+    <string name="try_step_2">2. 輕觸設備按鈕</string>
+    <string name="try_step_3">3. 將手錶調成配對模式</string>
+    <string name="try_step_4">4. 在設備列表中輕觸手錶選項</string>
+    <string name="try_step_5">5. 按下連接</string>
+    <string name="success_connect">設備已成功連接</string>
+
+
+
+
+
+    <!-- ACCOUNT -->
+    <string name="create_new_user">創建新用戶</string>
+    <string name="gen_new_token">啟用新圖標</string>
+    <string name="forgot_password">忘記密碼？</string>
+    <string name="email_not_empty">無效的電子郵箱地址</string>
+    <string name="reset_success">密碼修改成功</string>
+    <string name="reset_email">重設密碼指示已發送至</string>
+    <string name="sign_in">登錄</string>
+    <string name="sign_out">退出</string>
+    <string name="manage_account">管理賬號</string>
+    <string name="old_password">舊密碼</string>
+    <string name="new_password">新密碼</string>
+    <string name="repeat_new_password">重新輸入新密碼</string>
+    <string name="new_pass_no_match">密碼不一致</string>
+    <string name="change_password">更換密碼</string>
+    <string name="reset_password">重設密碼</string>
+    <string name="cancel">取消</string>
+    <string name="no_user_registered">目前無用戶已註冊。</string>
+    <string name="incorrect_pass">密碼錯誤- 請輸入你的舊密碼。</string>
+    <string name="email_not_found">使用此電郵地址的用戶尚未註冊。</string>
+
+    <string name="device_demo">設備演示</string>
+    <string name="clear_all">清除所有</string>
+    <string name="clear_all_notif">清除所有通知？</string>
+
+    <string name="gen_settings">通用設置</string>
+    <string name="manage_accounts">管理賬號</string>
+    <string name="support">支持</string>
+    <string name="feedback">反饋</string>
+    <string name="legal">合法的</string>
+    <string name="store">存儲</string>
+    <string name="watch_info">設備信息</string>
+    <string name="email">電郵地址</string>
+    <string name="password">密碼</string>
+    <string name="having_trouble">有問題？</string>
+    <string name="device_radar">輕觸這裡以查看設備列表</string>
+    <string name="notif_demo">按照通知類型過濾</string>
+
+    <string name="new_user">新用戶</string>
+    <string name="first_name">名</string>
+    <string name="last_name">姓</string>
+    <string name="confirm_password">確認密碼</string>
+    <string name="sign_up">註冊！</string>
+    <string name="existing_user">現有用戶</string>
+
+    <string name="password_sent_to">重設密碼的郵件已發送至:</string>
+    <string name="unable_to_send">無法更改密碼。</string>
+    <string name="are_you_sure">你確定嗎？</string>
+    <string name="clicking_ok">點擊好將重置密碼。</string>
+    <string name="pass_change_success">密碼已成功修改為:</string>
+    <string name="old_pass_not_blank">舊密碼處不能為空</string>
+    <string name="new_pass_not_blank">新密碼處不能為空</string>
+
+    <string name="please_register">請註冊</string>
+    <string name="must_register">你必須先註冊或登錄才能使用COOKOO Life 應用。</string>
+    <string name="regist_success">已註冊成功</string>
+    <string name="sign_in_success">登錄成功</string>
+    <string name="success">成功</string>
+    <string name="device_not_found">未找到設備</string>
+
+
+
+    <string name="batt_low">電池電量低</string>
+    <string name="batt_full">電池電量已滿</string>
+    <string name="batt_critical">電池電量極低</string>
+
+    <string-array name="legal_links">
+        <item>@string/privacy_policy</item>
+        <item>@string/terms_and_conditions</item>
+    </string-array>
+
+    <string name="alert_preferences">通知設置</string>
+    <string name="forget">忘記設備</string>
+    <string name="manufacturer">製造商</string>
+    <string name="software_revision">軟體修訂版本</string>
+    <string name="hardware_revision">硬體修訂版本</string>
+    <string name="firmware_revision">韌體修訂版本</string>
+    <string name="not_connected_title">未連接</string>
+    <string name="not_connected_text">應用程式當前未連接到設備。</string>
+
+
+</resources>

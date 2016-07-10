@@ -1,0 +1,234 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff" >
+
+
+     <LinearLayout 
+       		  android:id="@+id/top_container"
+              android:layout_width="fill_parent" 
+              android:layout_height="58dp"
+              android:background="#3DA2FF"
+               >
+
+
+    
+	</LinearLayout>
+
+    <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/device_demo"
+            android:textColor="@color/white"
+            android:layout_marginTop="15dp"
+            android:textSize="22sp"
+            android:layout_gravity="center_horizontal"/>
+
+
+
+
+
+   <LinearLayout
+    android:orientation="vertical"
+    android:layout_height="641dp"
+    android:layout_marginTop="84dip"
+    android:layout_width="325dip"
+    android:layout_marginLeft="20dip"
+    android:background="@null"
+   >
+
+	     <LinearLayout
+	    android:orientation="horizontal"
+	    android:layout_height="70dip"
+	    android:layout_margin="5dip"
+	    android:layout_width="fill_parent"
+	   	>
+
+	         <ImageButton
+             android:id="@+id/notif"
+             android:layout_height="wrap_content"
+             android:layout_marginRight="5dip"
+             android:adjustViewBounds="true"
+			 android:orientation="horizontal"
+			 android:layout_width="73dip"
+			 android:scaleType="fitCenter"
+			 android:background="#3DA2FF"
+             android:src="@drawable/nc_system" />
+
+	            <ImageButton
+             android:id="@+id/notifHigh"
+             android:layout_height="wrap_content"
+             android:layout_marginRight="5dip"
+             android:adjustViewBounds="true"
+			 android:orientation="horizontal"
+			 android:layout_width="72dip"
+			 android:scaleType="fitCenter"
+			 android:background="#3DA2FF"
+             android:src="@drawable/nc_system_high" />
+
+	          <ImageButton
+             android:id="@+id/batteryLow"
+             android:layout_height="wrap_content"
+             android:layout_marginLeft="5dip"
+             android:layout_marginRight="5dip"
+             android:adjustViewBounds="true"
+			 android:orientation="horizontal"
+			 android:layout_width="75dip"
+			 android:scaleType="fitCenter"
+			 android:background="#3DA2FF"
+             android:src="@drawable/nc_battery" />
+
+	            <ImageButton
+             android:id="@+id/batteryCritical"
+             android:layout_height="wrap_content"
+              android:adjustViewBounds="true"
+			 android:orientation="horizontal"
+			 android:layout_width="75dip"
+			 android:scaleType="fitCenter"
+			 android:background="#3DA2FF"
+             android:src="@drawable/nc_battery_crit" />
+
+
+
+
+	   	</LinearLayout>
+
+	     <LinearLayout
+	    android:orientation="horizontal"
+	    android:layout_height="70dip"
+	    android:layout_margin="5dip"
+	    android:layout_width="fill_parent"
+	   	>
+
+	         <ImageButton
+             android:id="@+id/privateNotif"
+             android:layout_height="wrap_content"
+             android:layout_marginRight="5dip"
+             android:adjustViewBounds="true"
+			 android:orientation="horizontal"
+			 android:layout_width="150dip"
+			 android:scaleType="fitCenter"
+			 android:background="#3DA2FF"
+             android:src="@drawable/nc_private" />
+
+
+	          <ImageButton
+             android:id="@+id/social"
+             android:layout_height="wrap_content"
+             android:layout_marginLeft="5dip"
+             android:adjustViewBounds="true"
+			 android:orientation="horizontal"
+			 android:layout_width="fill_parent"
+			 android:scaleType="fitCenter"
+			 android:background="#3DA2FF"
+             android:src="@drawable/nc_social" />
+
+
+	   	</LinearLayout>
+
+	      <LinearLayout
+	    android:orientation="horizontal"
+	    android:layout_height="70dip"
+	    android:layout_margin="5dip"
+	    android:layout_width="fill_parent"
+	   	>
+
+	         <ImageButton
+             android:id="@+id/alarm"
+             android:layout_height="wrap_content"
+             android:layout_marginRight="5dip"
+             android:adjustViewBounds="true"
+			 android:orientation="horizontal"
+			 android:layout_width="150dip"
+			 android:scaleType="fitCenter"
+			 android:background="#3DA2FF"
+             android:src="@drawable/nc_alarm" />
+
+
+	          <ImageButton
+             android:id="@+id/calendar"
+             android:layout_height="wrap_content"
+             android:layout_marginLeft="5dip"
+             android:adjustViewBounds="true"
+			 android:orientation="horizontal"
+			 android:layout_width="fill_parent"
+			 android:scaleType="fitCenter"
+			 android:background="#3DA2FF"
+             android:src="@drawable/nc_schedule" />
+
+
+	   	</LinearLayout>
+
+	      <LinearLayout
+	    android:orientation="horizontal"
+	    android:layout_height="70dip"
+	    android:layout_margin="5dip"
+	    android:layout_width="fill_parent"
+	   	>
+
+	           <ImageButton
+             android:id="@+id/email"
+             android:layout_height="wrap_content"
+             android:layout_marginRight="5dip"
+             android:adjustViewBounds="true"
+			 android:orientation="horizontal"
+			 android:layout_width="150dip"
+			 android:scaleType="fitCenter"
+			 android:background="#3DA2FF"
+             android:src="@drawable/nc_email" />
+
+	            <ImageButton
+             android:id="@+id/call"
+             android:layout_height="wrap_content"
+             android:layout_marginRight="5dip"
+             android:layout_marginLeft="5dip"
+             android:adjustViewBounds="true"
+			 android:orientation="horizontal"
+			 android:layout_width="75dip"
+			 android:paddingRight="5dip"
+			 android:scaleType="fitCenter"
+			 android:background="#3DA2FF"
+             android:src="@drawable/nc_call" />
+
+
+	             <ImageButton
+             android:id="@+id/missedCall"
+             android:layout_height="wrap_content"
+             android:adjustViewBounds="true"
+			 android:orientation="horizontal"
+			 android:layout_width="75dip"
+			 android:scaleType="fitCenter"
+			 android:paddingRight="5dip"
+			 android:background="#3DA2FF"
+             android:src="@drawable/nc_voicemail" />
+
+	   	</LinearLayout>
+
+       <LinearLayout
+               android:layout_height="40dip"
+               android:layout_width="315dip"
+               android:layout_margin="5dip"
+               android:layout_marginTop="5dip">
+
+
+           <Button
+                   android:layout_width="fill_parent"
+                   android:layout_height="40dip"
+                   android:id="@+id/clearAll"
+                   android:text="@string/clear_all"
+                   android:paddingRight="5dip"
+                   android:paddingLeft="5dip"
+                   android:background="@drawable/btn_toggle"
+                   android:textColor="@color/white"
+                   android:layout_gravity="center|bottom|top" android:layout_marginTop="5dip"/>
+            </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+
+
+    </FrameLayout>
+

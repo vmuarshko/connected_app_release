@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white">
+
+
+
+
+    <TextView
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/sign_in"
+            android:textSize="30sp"
+            android:textColor="@color/blue"
+            android:id="@+id/title"
+            android:layout_marginTop="20dp"
+
+        />
+
+    <ProgressBar
+            android:id="@+id/progress"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_marginBottom="2dip"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:visibility="invisible"
+            />
+
+    <TextView
+            android:id="@+id/error_message"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textColor="@color/red"
+            android:layout_below="@id/progress"
+            android:visibility="invisible"
+            android:layout_marginBottom="2dip"
+        />
+
+    <EditText
+            android:layout_width="@dimen/user_text_entry"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:hint="@string/email"
+            android:layout_below="@id/error_message"
+            android:inputType="textEmailAddress"
+            android:id="@+id/sign_in_email"/>
+
+
+    <EditText
+            android:layout_width="@dimen/user_text_entry"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:hint="@string/password"
+            android:layout_below="@id/sign_in_email"
+            android:id="@+id/sign_in_password"
+            android:inputType="textPassword"
+            />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/forgot_password"
+            android:layout_below="@id/sign_in_password"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/forgot"
+
+            />
+
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/button_stack"
+                    android:layout_width="@dimen/user_text_entry"
+                    android:layout_height="@dimen/button_height"
+                    android:layout_below="@id/forgot"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="10dp">
+
+        <Button
+                android:layout_alignParentLeft="true"
+                android:id="@+id/signIn"
+                android:text="@string/sign_in"
+                android:background="@drawable/blue_gray_btn_toggle"
+                android:textColor="@color/white"
+                android:layout_width="140dp"
+                android:layout_height="@dimen/button_height"
+
+                />
+
+        <Button
+                android:layout_alignParentRight="true"
+                android:id="@+id/cancelSignIn"
+                android:text="@string/cancel"
+                android:background="@drawable/red_gray_btn_toggle"
+                android:textColor="@color/white"
+                android:layout_width="140dp"
+                android:layout_height="@dimen/button_height"
+
+                />
+
+
+
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/help_links"
+                    android:layout_width="@dimen/user_text_entry"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/button_stack"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="10dp">
+
+        <TextView
+            android:layout_alignParentLeft="true"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="@string/having_trouble"
+            android:layout_marginTop="20dp"
+            android:id="@+id/trouble"
+            android:gravity="left"/>
+
+
+        <TextView
+            android:layout_alignParentRight="true"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="@string/new_user"
+            android:layout_marginTop="20dp"
+            android:id="@+id/new_user"
+            android:gravity="right"/>
+    </RelativeLayout>
+</RelativeLayout>

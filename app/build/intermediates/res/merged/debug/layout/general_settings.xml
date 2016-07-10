@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white">
+
+    <View  xmlns:android="http://schemas.android.com/apk/res/android"
+           android:id="@+id/header"
+           android:layout_height="58dp"
+           android:background="@color/blue"
+           android:layout_width="match_parent"
+            />
+
+    <ImageView
+            android:layout_width="50dip"
+            android:scaleType="fitCenter"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:orientation="horizontal"
+            android:layout_marginLeft="8dip"
+            android:paddingTop="4dip"
+            android:background="@null"
+            android:src="@drawable/device_settings" />
+
+
+     <TextView
+          android:layout_height="wrap_content"
+          android:layout_width="wrap_content"
+          android:text="@string/gen_settings"
+          android:textColor="@color/white"
+          android:layout_centerHorizontal="true"
+          android:layout_marginTop="15dp"
+          android:textSize="22sp"
+         />
+
+
+    <Button
+            android:layout_width="305dip"
+            android:layout_height="40dip"
+            android:text="@string/manage_account"
+            android:id="@+id/accounts"
+            android:layout_below="@id/header"
+            android:textSize="15sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/mag_btn_toggle"
+            android:textColor="@color/white"
+            />
+
+    <Button
+            android:layout_width="305dip"
+            android:layout_height="40dip"
+            android:text="@string/support"
+            android:id="@+id/support"
+            android:textSize="15sp"
+            android:layout_below="@id/accounts"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/green_btn_toggle"
+            android:textColor="@color/white"
+            />
+
+    <Button
+            android:layout_width="305dip"
+            android:layout_height="40dip"
+            android:text="@string/feedback"
+            android:id="@+id/feedback"
+            android:layout_below="@id/support"
+            android:textSize="15sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/green_btn_toggle"
+            android:textColor="@color/white"
+            />
+
+    <Button
+            android:layout_width="305dip"
+            android:layout_height="40dip"
+            android:text="@string/legal"
+            android:id="@+id/legal"
+            android:layout_below="@id/feedback"
+            android:textSize="15sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/green_btn_toggle"
+            android:textColor="@color/white"
+            />
+
+
+    <Button
+            android:layout_width="305dip"
+            android:layout_height="40dip"
+            android:text="@string/store"
+            android:id="@+id/store"
+            android:layout_below="@id/legal"
+            android:textSize="15sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/blue_btn_toggle"
+            android:textColor="@color/white"
+            />
+
+
+    <Button
+            android:layout_width="305dip"
+            android:layout_height="40dip"
+            android:text="@string/device_demo"
+            android:id="@+id/deviceDemo"
+            android:layout_below="@id/store"
+            android:textSize="15sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/orange_btn_toggle"
+            android:textColor="@color/white"
+            />
+
+
+
+
+    <Button
+            android:layout_width="305dip"
+            android:layout_height="40dip"
+            android:text="@string/watch_info"
+            android:id="@+id/watchInfo"
+            android:layout_below="@id/deviceDemo"
+            android:textSize="15sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/orange_btn_toggle"
+            android:textColor="@color/white"
+            />
+
+
+
+    <TextView
+            android:id="@+id/connected_ltd"
+            android:paddingTop="1dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/connected_ltd"
+            android:layout_above="@id/version"
+            android:layout_centerInParent="true"
+            />
+
+    <TextView
+          android:id="@+id/copywrite"
+          android:layout_marginTop="5dip"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/copyright"
+          android:layout_above="@id/connected_ltd"
+          android:layout_centerInParent="true"
+        />
+
+
+
+
+
+    <TextView
+            android:id="@+id/version"
+            android:paddingTop="1dip"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="2dp"
+            android:textSize="15sp"
+            android:text="Cookoo Life Beta"
+            android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

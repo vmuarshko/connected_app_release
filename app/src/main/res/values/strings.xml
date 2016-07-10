@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="connect_loop1">Connecting.</string>
+    <string name="connect_loop2">Connecting..</string>
+    <string name="connect_loop3">Connecting...</string>
+    
+    <string name="fragment_notification_list_created_righ_now">Right now</string>
+    <string name="fragment_notification_list_created_time">%1$s%2$s ago</string>
+    
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="copyright">Copyright © 2014</string>
+    <string name="connected_ltd">CONNECTEDEVICE Ltd all rights reserved.</string>
+
+    <string name="pref_private">Private</string>
+    <string name="pref_social">Social</string>
+    <string name="pref_mail">Mail</string>
+    <string name="pref_event">Event</string>
+    <string name="pref_battery">Battery</string>
+    <string name="pref_phone">Phone</string>
+    <string name="pref_voicemail">Voicemail</string>
+
+    <string name="ok">OK</string>
+    
+    
+    <string name="app_name">COOKOO Life</string>
+    <string name="action_settings">Settings</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">, Connected</string>
+    <string name="not_connected">, Not Connected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="paired">Paired</string>
+    <string name="not_paired">Not Paired</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    
+    <string name="str_image_processing">Image processing</string>
+       
+    <string name="device_settings_title_short_press" >Short  (0&#8211;2 sec.)</string>
+    <string name="device_settings_title_medium_press">Medium (2&#8211;4 sec.)</string>
+    <string name="device_settings_title_long_press"  >Long   (4+ sec.)</string>
+    <string name="device_settings_title_alerts">Alerts</string>
+    <string name="device_settings_title_battery_levels">Battery</string>
+    <string name="device_settings_title_command_button">Command button</string>
+	<string name="device_settings_press_find_android">Find my phone</string>
+
+    <string name="old_firmware_warn">Notice</string>
+    <string name="old_firmware_message">Devices running watch software v1.0.0004 may
+        require a PIN code to pair.  If prompted enter "000000".</string>
+
+    <string name="no">No</string>
+    <string name="already_connected">Your watch appears to already be connected.</string>
+    <string name="connect">Connect</string>
+    <string name="unpair">Unpair</string>
+    <string name="already_bonded">First make sure your watch is powered on and in range.  If you have other Connected Watches
+    please make sure they are first powered off.</string>
+    <string name="skip">Skip > </string>
+
+    <string name="out_of_range">Out of Range</string>
+    <string name="disconnected">Device has been disconnected.</string>
+    <string name="problems_conn">Unable to connect</string>
+    <string name="cycle_bluetooth">First make sure your watch is powered on and in range.  Then press Restart Bluetooth.</string>
+    <string name="restart_bluetooth">Restart Bluetooth</string>
+    <string name="cycling_bluetooth">Restarting Bluetooth</string>
+    <string name="attempting_conn">A connection attempt is already in progress.  Would you like to cancel it?</string>
+    <string name="device_is_oor">The device you are attempting to connect to is either out of range or not powered on.</string>
+    <string name="device_is_oos">Please place your device into pairing mode and then try to connect.</string>
+    <string name="out_of_sync">Watch is out of sync</string>
+
+    <string name="not_in_range">Watch is not in range.  Please bring it into range before connecting.</string>
+    <string name="attention">Attention</string>
+    <string name="release_build">The Cookoo Life release build is now available.  Would you like
+        to install it now?</string>
+
+
+    <string name="attempting_connection">Attempting connection</string>
+    <string name="device_connecting">Device is connecting</string>
+    <string name="set_up_notifications">Setting up notifications</string>
+
+    <string name="notifications">Enable Notifications</string>
+    <string name="notification_perm">Please grant notification permissions by checking the box,
+        then tap the back button on your phone.</string>
+    <string name="welcome">Welcome to the COOKOO Life application.</string>
+    <string name="notification_recheck">Please uncheck and then recheck the box to restart notifications.</string>
+    <string name="notifications_stopped">Notifications have stopped</string>
+
+    <string name="camera_unsupported">Selected Camera is unsupported.</string>
+
+    <string name="try_steps">Try the following:\n</string>
+    <string name="try_step_1">  1. Turn off watch\n</string>
+    <string name="try_step_2">  2. Tap on Devices\n</string>
+    <string name="try_step_3">  3. Put watch in pairing mode\n</string>
+    <string name="try_step_4">  4. Tap on watch in device list\n</string>
+    <string name="try_step_5">  5. Press connect\n</string>
+    <string name="success_connect">Device successfully connected</string>
+
+
+
+
+
+    <!-- ACCOUNT -->
+    <string name="create_new_user">Create New User</string>
+    <string name="gen_new_token">Generate New Token</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="email_not_empty">Invalid email address</string>
+    <string name="reset_success">Password Reset Success</string>
+    <string name="reset_email">Password reset instructions have been sent to </string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="manage_account">Manage Account</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="repeat_new_password">Repeat New Password</string>
+    <string name="new_pass_no_match">Passwords do not match</string>
+    <string name="change_password">Change Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_user_registered">No user is currently registered.</string>
+    <string name="incorrect_pass">Incorrect password - please reenter your Old Password.</string>
+    <string name="email_not_found">No user with this email address is registered.</string>
+
+    <string name="device_demo">Device Demo</string>
+    <string name="clear_all">CLEAR ALL</string>
+    <string name="clear_all_notif">Clear all notifications?</string>
+
+    <string name="gen_settings">General Settings</string>
+    <string name="manage_accounts">Manage Accounts</string>
+    <string name="support">Support</string>
+    <string name="feedback">Feedback</string>
+    <string name="legal">Legal</string>
+    <string name="store">Store</string>
+    <string name="watch_info">Device Info</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="having_trouble">Having Trouble?</string>
+    <string name="device_radar">Tap here for Device List</string>
+    <string name="notif_demo">Filter by Notification type</string>
+
+    <string name="new_user">New User</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="existing_user">Existing User</string>
+
+    <string name="password_sent_to">Password reset email sent to:</string>
+    <string name="unable_to_send">Unable to change password.</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="clicking_ok">Clicking OK will reset your password.</string>
+    <string name="pass_change_success">Password Successfully Changed for:</string>
+    <string name="old_pass_not_blank">Old Password cannot be blank</string>
+    <string name="new_pass_not_blank">New Password cannot be blank</string>
+
+    <string name="please_register">Please Register</string>
+    <string name="must_register">You must register or sign in prior to using Cookoo Life.</string>
+    <string name="regist_success">Registration Successful</string>
+    <string name="sign_in_success">Sign In Successful</string>
+    <string name="success">Success</string>
+    <string name="device_not_found">Device not found</string>
+
+
+
+    <string name="batt_low">Battery is low</string>
+    <string name="batt_full">Battery is full</string>
+    <string name="batt_critical">Battery is critical</string>
+
+    <string-array name="legal_links">
+        <item>@string/privacy_policy</item>
+        <item>@string/terms_and_conditions</item>
+    </string-array>
+
+
+
+    <!-- FW Update / Device Info -->
+
+    <string name="start_prog">Start Firmware Update</string>
+    <string name="idle">Idle</string>
+    <string name="update_in_prog">Update in progress</string>
+    <string name="device_info">Device Info</string>
+
+    <string name="alert_preferences">Notification Settings</string>
+    <string name="forget">Forget Device</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="software_revision">Software Revision</string>
+    <string name="hardware_revision">Hardware Revision</string>
+    <string name="firmware_revision">Firmware Revision</string>
+    <string name="not_connected_title">Not Connected</string>
+    <string name="not_connected_text">Application is not currently connected to a device.</string>
+
+    <string name="yes">Yes</string>
+    <string name="awaiting_notifications">Awaiting Notifications</string>
+    <string name="device_in_range">Device in range:</string>
+
+
+</resources>
+
+
+
+ 
+    
+

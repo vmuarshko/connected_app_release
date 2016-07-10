@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_pref_fragment.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\device_pref_fragment.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_fragment_4.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\splash_fragment_4.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_info_activity.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\device_info_activity.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_activity.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\splash_activity.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signup_activity.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\signup_activity.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\account_activity.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\account_activity.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_app_settings.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\fragment_app_settings.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item_row.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\listview_item_row.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_demomode.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\fragment_demomode.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_activity.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\preference_activity.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\general_settings.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\general_settings.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_camera.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_fragment_3.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\splash_fragment_3.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_fragment_2.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\splash_fragment_2.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_pass_fragment.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\change_pass_fragment.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item_row_gone.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\listview_item_row_gone.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_fragment_1.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\splash_fragment_1.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin_activity.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\signin_activity.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\layout\\demo_mode_activity.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\layout\\demo_mode_activity.xml"
+    }
+]

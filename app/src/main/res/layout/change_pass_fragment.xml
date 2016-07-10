@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/change_password"
+        >
+
+
+     <RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+                      android:layout_width="400dp"
+                      android:layout_height="225dp"
+                      android:layout_centerInParent="true"
+                      android:layout_margin="10dp"
+                      >
+
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:visibility="invisible"
+              android:lines="2"
+              android:id="@+id/error_message"
+              android:textColor="@color/red"
+            />
+
+
+    <EditText
+            android:layout_width="@dimen/user_text_entry"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:hint="@string/old_password"
+            android:id="@+id/oldPass"
+            android:inputType="textPassword"
+            android:layout_below="@id/error_message"
+            />
+
+    <EditText
+            android:layout_width="@dimen/user_text_entry"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:hint="@string/new_password"
+            android:layout_below="@id/oldPass"
+            android:id="@+id/newPass"
+            android:inputType="textPassword"
+            />
+
+
+    <EditText
+           android:layout_width="@dimen/user_text_entry"
+           android:layout_height="wrap_content"
+           android:layout_centerHorizontal="true"
+           android:hint="@string/repeat_new_password"
+           android:layout_below="@id/newPass"
+           android:id="@+id/reEnterNewPass"
+           android:inputType="textPassword"
+         />
+
+
+    <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="300dp"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="5dp"
+            android:layout_below="@id/reEnterNewPass">
+
+    <Button
+            android:id="@+id/confirmReset"
+            android:text="@string/change_password"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/blue_gray_btn_toggle"
+            android:textColor="@color/white"
+            android:layout_margin="2dp"
+        />
+
+
+    <Button
+            android:id="@+id/cancelReset"
+            android:text="@string/cancel"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/red_gray_btn_toggle"
+            android:textColor="@color/white"
+            android:layout_margin="2dp"
+            />
+
+
+    </RelativeLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

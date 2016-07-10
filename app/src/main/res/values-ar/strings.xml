@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="connect_loop1">جارِ الاتصال.</string>
+    <string name="connect_loop2">جارِ الاتصال..</string>
+    <string name="connect_loop3">جارِ الاتصال...</string>
+    
+    <string name="fragment_notification_list_created_righ_now">الآن</string>
+    <string name="fragment_notification_list_created_time">منذ %1$s%2$s</string>
+    
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="terms_and_conditions">الشروط والأحكام</string>
+    <string name="copyright">حقوق الطبع والنشر© 2014</string>
+    <string name="connected_ltd">CONNECTEDEVICE المحدودة، جميع الحقوق محفوظة.</string>
+
+    <string name="pref_private">النص</string>
+    <string name="pref_social">اجتماعي</string>
+    <string name="pref_mail">البريد</string>
+    <string name="pref_event">الحدث</string>
+    <string name="pref_battery">البطارية</string>
+    <string name="pref_phone">الهاتف</string>
+    <string name="pref_voicemail">البريد الصوتي</string>
+
+    <string name="ok">موافق</string>
+    
+    
+    <string name="app_name">COOKOO Life</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="ble_not_supported">BLE غير مدعوم</string>
+    <string name="label_data">البيانات:</string>
+    <string name="label_device_address">عنوان الجهاز:</string>
+    <string name="label_state">الولاية:</string>
+    <string name="no_data">لا توجد بيانات</string>
+    <string name="connected">، متصل</string>
+    <string name="not_connected">، غير متصل</string>
+    <string name="title_devices">مسح جهاز BLE</string>
+    <string name="error_bluetooth_not_supported">البلوتوث غير مدعوم.</string>
+    <string name="paired">مقترن</string>
+    <string name="not_paired">غير مقترن</string>
+
+    <string name="unknown_device">جهاز غير معروف</string>
+    <string name="unknown_characteristic">خاصية غير معروفة</string>
+    <string name="unknown_service">خدمة غير معروفة</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">توصيل</string>
+    <string name="menu_disconnect">قطع الاتصال</string>
+    <string name="menu_scan">مسح</string>
+    <string name="menu_stop">إيقاف</string>
+    
+    <string name="str_image_processing">معالجة الصوة</string>
+       
+    <string name="device_settings_title_short_press">قصير (0-2 ثانية)</string>
+    <string name="device_settings_title_medium_press">وسط (2-4 ثانية)</string>
+    <string name="device_settings_title_long_press">طويل (4+ ثانية)</string>
+    <string name="device_settings_title_alerts">تنبيهات</string>
+    <string name="device_settings_title_battery_levels">البطارية</string>
+    <string name="device_settings_title_command_button">زر الأوامر</string>
+	<string name="device_settings_press_find_android">ابحث عن هاتفي</string>
+
+    <string name="old_firmware_warn">ملاحظة</string>
+    <string name="old_firmware_message">الأجهزة التي تعمل ببرنامج الساعة الإصدار v1.0.0004 قد تحتاج إلى رمز PIN للإصلاح. إذا طُلب منك، أدخل 000000.</string>
+
+    <string name="no">لا</string>
+    <string name="already_connected">يبدو أن ساعتك متصلة بالفعل.</string>
+    <string name="connect">توصيل</string>
+    <string name="unpair">إلغاء الإقران</string>
+    <string name="already_bonded">تأكد أولًا من أن ساعتك في وضع التشغيل وموجودة في النطاق. إذا كانت لديك أي ساعات أخرى متصلة فتأكد من تشغيلها أولًا.</string>
+    <string name="skip">تخطي &gt;</string>
+
+    <string name="out_of_range">خارج النطاق</string>
+    <string name="disconnected">تم فصل الجهاز.</string>
+    <string name="problems_conn">تعذر التوصيل.</string>
+    <string name="cycle_bluetooth">تأكد أولًا من أن ساعتك في وضع التشغيل وأنها في النطاق. ثم اضغط على زر \"إعادة تشغيل البلوتوث\".</string>
+    <string name="restart_bluetooth">إعادة تشغيل البلوتوث</string>
+    <string name="cycling_bluetooth">جاري إعادة تشغيل البلوتوث</string>
+    <string name="attempting_conn">تجري الآن محاولة الاتصال بالفعل.\nهل تريد إلغائها؟</string>
+    <string name="device_is_oor">الجهاز التي تحاول الاتصال به خارج النطاق أو مغلق.</string>
+    <string name="device_is_oos">يرجى وضع الجهاز في وضع الإقران ثم أعد المحاولة.</string>
+    <string name="out_of_sync">الساعة خارج المزامنة.</string>
+
+    <string name="not_in_range">الساعة ليست في النطاق. يرجى إحضارها إلى النطاق قبل التوصيل.</string>
+
+
+    <string name="attempting_connection">جاري محاولة الاتصال</string>
+    <string name="device_connecting">جاري توصيل الجهاز</string>
+    <string name="set_up_notifications">جاري إعداد الإخطارات</string>
+
+    <string name="notifications">تمكين الإخطارات</string>
+    <string name="notification_perm">يرجى السماح بالإخطارات عن طريق وضع علامة على المربع، ثم انقر على زر الرجوع للخلف في هاتفك.</string>
+    <string name="welcome">مرحبًا بك في تطبيق Connected Watch.</string>
+    <string name="notification_recheck">يرجى إزالة العلامة من على المربع وإعادة وضعها لكي تتم إعادة تشغيل الإخطارات.</string>
+    <string name="notifications_stopped">توقفت الإخطارات</string>
+
+    <string name="camera_unsupported">الكاميرا المختارة غير مدعومة.</string>
+
+    <string name="try_steps">جرب الآتي:</string>
+    <string name="try_step_1">1. أوقف تشغيل الساعة</string>
+    <string name="try_step_2">2. انقر على \"الأجهزة\"</string>
+    <string name="try_step_3">3. ضع الساعة في وضع الإقران</string>
+    <string name="try_step_4">4. انقر على الساعة في قائمة الأجهزة</string>
+    <string name="try_step_5">5. اضغط على \"توصيل\"</string>
+    <string name="success_connect">تم توصيل الجهاز بنجاح</string>
+
+
+
+
+
+    <!-- ACCOUNT -->
+    <string name="create_new_user">إنشاء مستخدم جديد</string>
+    <string name="gen_new_token">إنشاء رمز جديد</string>
+    <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="email_not_empty">عنوان البريد الإلكتروني لا يصلح</string>
+    <string name="reset_success">تمت إعادة ضبط كلمة المرور بنجاح</string>
+    <string name="reset_email">تم إرسال تعليمات إعادة ضبط كلمة المرور إلى</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="manage_account">إدارة الحساب</string>
+    <string name="old_password">كلمة المرور القديمة</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="repeat_new_password">كرر كلمة المرور الجديدة</string>
+    <string name="new_pass_no_match">كلمتا المرور غير متطابقتين</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="reset_password">إعادة ضبط كلمة المرور</string>
+    <string name="cancel">إلغاء</string>
+    <string name="no_user_registered">لا يوجد مستخدم مسجل حاليًا.</string>
+    <string name="incorrect_pass">كلمة المرور غير صحيحة - يرجى إعادة إدخال كلمة المرور القديمة.</string>
+    <string name="email_not_found">لا يوجد مستخدم مسجل بهذا البريد الإلكتروني.</string>
+
+    <string name="device_demo">العرض التجريبي للجهاز</string>
+    <string name="clear_all">مسح الكل</string>
+    <string name="clear_all_notif">مسح جميع الإخطارات؟</string>
+
+    <string name="gen_settings">إعدادات عامة</string>
+    <string name="manage_accounts">إدارة الحسابات</string>
+    <string name="support">الدعم</string>
+    <string name="feedback">التعقيبات</string>
+    <string name="legal">قانوني</string>
+    <string name="store">المتجر</string>
+    <string name="watch_info">معلومات الجهاز</string>
+    <string name="email">عنوان البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="having_trouble">هل توجد مشكلة؟</string>
+    <string name="device_radar">انقر هنا لمشاهدة قائمة الأجهزة</string>
+    <string name="notif_demo">تصفية حسب نوع الإخطار</string>
+
+    <string name="new_user">مستخدم جديد</string>
+    <string name="first_name">الاسم الأول</string>
+    <string name="last_name">الاسم الأخير</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="sign_up">اشترك!</string>
+    <string name="existing_user">مستخدم حالي</string>
+
+    <string name="password_sent_to">تم إرسال رسالة إعادة ضبط كلمة المرور إلى:</string>
+    <string name="unable_to_send">تعذر تغيير كلمة المرور.</string>
+    <string name="are_you_sure">هل أنت متأكد.</string>
+    <string name="clicking_ok">ستتم إعادة ضبط كلمة المرور عند النقر على \"موافق\".</string>
+    <string name="pass_change_success">تم بنجاح تغيير كلمة المرور لـ:</string>
+    <string name="old_pass_not_blank">لا يمكن ترك حقل كلمة المرور القديمة فارغًا</string>
+    <string name="new_pass_not_blank">لا يمكن ترك حقل كلمة المرور الجديدة فارغًا</string>
+
+    <string name="please_register">يرجى الاشتراك</string>
+    <string name="must_register">يجب أن تشترك أو تقوم بتسجيل الدخول قبل استخدام تطبيق Connected Watch.</string>
+    <string name="regist_success">تم الاشتراك بنجاح</string>
+    <string name="sign_in_success">تم تسجيل الدخول بنجاح</string>
+    <string name="success">نجاح</string>
+    <string name="device_not_found">لم يُعثَر على الجهاز</string>
+
+
+
+    <string name="batt_low">البطارية منخفضة</string>
+    <string name="batt_full">البطارية ممتلئة</string>
+    <string name="batt_critical">البطارية في وضع حرج</string>
+
+    <string-array name="legal_links">
+    <item>@string/privacy_policy</item>
+    <item>@string/terms_and_conditions</item>
+  </string-array>
+
+    <string name="alert_preferences">إعدادات الإخطارات</string>
+    <string name="forget">نسيت الجهاز</string>
+    <string name="manufacturer">جهة التصنيع</string>
+    <string name="software_revision">مراجعة البرنامج</string>
+    <string name="hardware_revision">مراجعة المكونات الصلبة</string>
+    <string name="firmware_revision">مراجعة البرنامج الثابت</string>
+    <string name="not_connected_title">غير متصل</string>
+    <string name="not_connected_text">التطبيق غير متصل بأي جهاز حاليًا.</string>
+
+</resources>

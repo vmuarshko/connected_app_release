@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="connect_loop1">连接中.</string>
+    <string name="connect_loop2">连接中..</string>
+    <string name="connect_loop3">连接中...</string>
+
+    <string name="fragment_notification_list_created_righ_now">现在</string>
+    <string name="fragment_notification_list_created_time">%1$s%2$s之前</string>
+
+    <string name="privacy_policy">隐私政策</string>
+    <string name="terms_and_conditions">条款与条件</string>
+    <string name="copyright">版权所有\@2014</string>
+    <string name="connected_ltd">连接时钟有限公司保留所有权利</string>
+
+    <string name="pref_private">文字</string>
+    <string name="pref_social">社交</string>
+    <string name="pref_mail">邮件</string>
+    <string name="pref_event">时间</string>
+    <string name="pref_battery">电池</string>
+    <string name="pref_phone">电话</string>
+    <string name="pref_voicemail">语音信箱</string>
+
+    <string name="ok">确定</string>
+
+
+    <string name="app_name">已连接</string>
+    <string name="action_settings">设置</string>
+    <string name="ble_not_supported">不支持BLE</string>
+    <string name="label_data">数据</string>
+    <string name="label_device_address">设备地址：</string>
+    <string name="label_state">州：</string>
+    <string name="no_data">无数据</string>
+    <string name="connected">已连接</string>
+    <string name="not_connected">未连接</string>
+    <string name="title_devices">BLE设备扫描</string>
+    <string name="error_bluetooth_not_supported">不支持蓝牙</string>
+    <string name="paired">配对</string>
+    <string name="not_paired">不配对</string>
+
+    <string name="unknown_device">未知设备</string>
+    <string name="unknown_characteristic">未知属性</string>
+    <string name="unknown_service">未知服务</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">连接</string>
+    <string name="menu_disconnect">断开连接</string>
+    <string name="menu_scan">扫描</string>
+    <string name="menu_stop">停止</string>
+
+    <string name="str_image_processing">处理图像</string>
+
+    <string name="device_settings_title_short_press">短时间（0-2秒）</string>
+    <string name="device_settings_title_medium_press">中时间（2-4秒）</string>
+    <string name="device_settings_title_long_press">长时间（大于4秒）</string>
+    <string name="device_settings_title_alerts">警告</string>
+    <string name="device_settings_title_battery_levels">电池</string>
+    <string name="device_settings_title_command_button">命令按钮</string>
+    <string name="device_settings_press_find_android">寻找我的手机</string>
+
+    <string name="old_firmware_warn">通知</string>
+    <string name="old_firmware_message">运行手表软件v1.0.0004，设备可能需要一个PIN码进行配对。如有系统提示请您您输入000000</string>
+
+    <string name="no">无</string>
+    <string name="already_connected">您的手表似乎已被连接</string>
+    <string name="connect">连接</string>
+    <string name="unpair">接触配对</string>
+    <string name="already_bonded">首先请确认您的手机有足够电量且在连接范围之内。如有你有其他连接网络的手表，请先将他们关掉。</string>
+    <string name="skip">跳过</string>
+
+    <string name="out_of_range">超出范围</string>
+    <string name="disconnected">设备已断开连接。</string>
+    <string name="problems_conn">无法连接</string>
+    <string name="cycle_bluetooth">首先确认您的手表有足够电量且在连接范围之内。然后点击“重启蓝牙”按钮。</string>
+    <string name="restart_bluetooth">重启蓝牙</string>
+    <string name="cycling_bluetooth">蓝牙重启中</string>
+    <string name="attempting_conn">设备已将在尝试连接，您要取消它吗？</string>
+    <string name="device_is_oor">您正在尝试连接的设备或是超出连接范围或是没有足够电力。</string>
+    <string name="device_is_oos">请将您的手机设为配对模式，然后再尝试连接</string>
+    <string name="out_of_sync">手表不同步</string>
+
+    <string name="not_in_range">手表不在连接范围之内，请将其移入连接范围再尝试连接。</string>
+
+
+    <string name="attempting_connection">尝试连接中</string>
+    <string name="device_connecting">正在连接设备</string>
+    <string name="set_up_notifications">设置通知</string>
+
+    <string name="notifications">启用短信提醒</string>
+    <string name="notification_perm">请勾选选项框来赋予通知权限，然后点击您手机上的黑色按钮</string>
+    <string name="welcome">欢迎使用连通手表的应用</string>
+    <string name="notification_recheck">请取消勾选，然后重新勾选来重新启动通知。</string>
+    <string name="notifications_stopped">已停止通知</string>
+
+    <string name="camera_unsupported">不能支持选中的相机</string>
+
+    <string name="try_steps">尝试下列选择：</string>
+    <string name="try_step_1">1.关掉手机</string>
+    <string name="try_step_2">2.点击设备</string>
+    <string name="try_step_3">3.将手表设为配对模式</string>
+    <string name="try_step_4">4.在设备清单中点击手表</string>
+    <string name="try_step_5">点击连接按钮</string>
+    <string name="success_connect">设备已成功连接</string>
+
+
+
+
+
+    <!-- ACCOUNT -->
+    <string name="create_new_user">创建新用户</string>
+    <string name="gen_new_token">生成新的标记</string>
+    <string name="forgot_password">忘记密码?</string>
+    <string name="email_not_empty">电子邮件地址无效</string>
+    <string name="reset_success">密码重置成功</string>
+    <string name="reset_email">密码重置说明已被送往</string>
+    <string name="sign_in">登录</string>
+    <string name="sign_out">退出</string>
+    <string name="manage_account">管理帐户</string>
+    <string name="old_password">旧密码</string>
+    <string name="new_password">新密码</string>
+    <string name="repeat_new_password">重复新密码</string>
+    <string name="new_pass_no_match">密码不匹配</string>
+    <string name="change_password">修改密码</string>
+    <string name="reset_password">重置新密码</string>
+    <string name="cancel">取消</string>
+    <string name="no_user_registered">当前没有注册用户</string>
+    <string name="incorrect_pass">密码不正确。请重新输入您的旧密码</string>
+    <string name="email_not_found">没有用户用该电邮注册</string>
+
+    <string name="device_demo">设备演示</string>
+    <string name="clear_all">清除所有</string>
+    <string name="clear_all_notif">清除所有通知？</string>
+
+    <string name="gen_settings">通用设定</string>
+    <string name="manage_accounts">管理帐户</string>
+    <string name="support">支持</string>
+    <string name="feedback">反馈</string>
+    <string name="legal">法律</string>
+    <string name="store">商铺</string>
+    <string name="watch_info">设备信息</string>
+    <string name="email">电子邮件地址</string>
+    <string name="password">密码</string>
+    <string name="having_trouble">遇到了问题？</string>
+    <string name="device_radar">点击这里得到设备列表</string>
+    <string name="notif_demo">按通知类型筛选</string>
+
+    <string name="new_user">新用户</string>
+    <string name="first_name">名</string>
+    <string name="last_name">姓</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="sign_up">注册！</string>
+    <string name="existing_user">已有用户</string>
+
+    <string name="password_sent_to">密码重置邮件发送到：</string>
+    <string name="unable_to_send">无法更改密码</string>
+    <string name="are_you_sure">是否确定？</string>
+    <string name="clicking_ok">单击确定将重置您的密码。</string>
+    <string name="pass_change_success">密码成功更改为：</string>
+    <string name="old_pass_not_blank">旧密码不能为空</string>
+    <string name="new_pass_not_blank">新密码不能为空</string>
+
+    <string name="please_register">请注册</string>
+    <string name="must_register">您在使用联通手表应用之前必须注册或是登录</string>
+    <string name="regist_success">成功注册</string>
+    <string name="sign_in_success">成功登录</string>
+    <string name="success">成功</string>
+    <string name="device_not_found">未找到设备</string>
+
+
+
+    <string name="batt_low">电量低</string>
+    <string name="batt_full">充电已满</string>
+    <string name="batt_critical">电量严重不足</string>
+
+    <string-array name="legal_links">
+        <item>@string/privacy_policy</item>
+        <item>@string/terms_and_conditions</item>
+    </string-array>
+
+    <string name="alert_preferences">通知设置</string>
+    <string name="forget">忘记设备</string>
+    <string name="manufacturer">制造商</string>
+    <string name="software_revision">软件修订版本</string>
+    <string name="hardware_revision">硬件修订版本</string>
+    <string name="firmware_revision">固件修订版本</string>
+    <string name="not_connected_title">未连接</string>
+    <string name="not_connected_text">应用程序当前未连接到设备。</string>
+
+
+</resources>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white">
+
+
+
+    <View  xmlns:android="http://schemas.android.com/apk/res/android"
+           android:id="@+id/header"
+           android:layout_height="58dp"
+           android:background="@color/blue"
+           android:layout_width="match_parent"
+
+
+            />
+
+    <ImageView
+            android:layout_width="50dip"
+            android:scaleType="fitCenter"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:orientation="horizontal"
+            android:layout_marginLeft="8dip"
+            android:paddingTop="4dip"
+            android:background="@null"
+            android:src="@drawable/nc_system" />
+
+
+    <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/manage_account"
+            android:textColor="@color/white"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:textSize="22sp"
+            />
+
+
+
+
+    <TextView
+            android:id="@+id/user_id"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/header"
+            android:textColor="@color/black"
+            android:textSize="22sp"
+            android:layout_marginTop="30dp"
+            />
+
+    <TextView
+            android:id="@+id/access_token"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/user_id"
+            android:textColor="@color/blue"
+            android:textSize="15sp"
+            android:layout_marginTop="5dp"
+            />
+
+    <Button
+            android:layout_width="305dip"
+            android:layout_height="40dip"
+            android:text="@string/sign_in"
+            android:id="@+id/account_sign_in_out"
+            android:layout_below="@id/access_token"
+            android:textSize="15sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@color/green"
+            android:textColor="@color/white"
+            />
+
+    <Button
+            android:layout_width="305dip"
+            android:layout_height="40dip"
+            android:text="@string/change_password"
+            android:id="@+id/changePassword"
+            android:layout_below="@id/account_sign_in_out"
+            android:textSize="15sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/blue_gray_btn_toggle"
+            android:textColor="@color/white"
+            />
+
+
+
+    <Button
+        android:layout_width="305dip"
+        android:layout_height="40dip"
+        android:text="@string/forgot_password"
+        android:id="@+id/forgotPassword"
+        android:layout_below="@id/changePassword"
+        android:textSize="15sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/blue_gray_btn_toggle"
+        android:textColor="@color/white"
+        />
+
+    <Button
+            android:layout_width="305dip"
+            android:layout_height="40dip"
+            android:text="@string/gen_new_token"
+            android:id="@+id/generateToken"
+            android:layout_below="@id/forgotPassword"
+            android:textSize="15sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/red_gray_btn_toggle"
+            android:textColor="@color/white"
+            android:visibility="gone"
+            />
+
+
+
+    <Button
+            android:layout_width="305dip"
+            android:layout_height="40dip"
+            android:text="@string/create_new_user"
+            android:id="@+id/create_new_user"
+            android:layout_below="@id/generateToken"
+            android:textSize="15sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/orange_btn_toggle"
+            android:textColor="@color/white"
+            android:visibility="gone"
+            />
+
+
+</RelativeLayout>

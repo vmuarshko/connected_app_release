@@ -1,0 +1,92 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <item name="android:buttonStyle">@style/CKButton</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    
+    <style name="PreferencesTheme">
+    <item name="android:background">#FFFFFF</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:textColor">@color/black</item>
+    <item name="android:titleTextStyle">@color/black</item>
+    <item name="android:textColorSecondary">@color/black</item>
+    <!--<item name="android:listSeparatorTextViewStyle">@style/PreferenceListHeader</item> -->
+    <!--<item name="android:switchPreferenceStyle">@style/SwitchPreference</item> -->
+	</style>
+
+        <style name="Theme.Transparent" parent="android:Theme">
+            <item name="android:windowIsTranslucent">true</item>
+            <item name="android:windowBackground">@android:color/transparent</item>
+            <item name="android:windowContentOverlay">@null</item>
+            <item name="android:windowNoTitle">true</item>
+            <item name="android:windowIsFloating">true</item>
+            <item name="android:backgroundDimEnabled">false</item>
+        </style>
+
+
+
+    <style name="GenericProgressBackground" parent="android:Theme">
+    <item name="android:layout_width">fill_parent</item>    
+    <item name="android:layout_height">fill_parent</item>
+    <item name="android:background">#DD111111</item>    
+    <item name="android:gravity">center</item>  
+	</style>
+
+
+	<style name="GenericProgressIndicator" parent="@android:style/Widget.ProgressBar.Small">
+	    <item name="android:layout_width">wrap_content</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:indeterminate">true</item> 
+	</style>
+	
+	<style name="AppTheme.Preference.Checkbox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/switch_inner_holo_light</item>
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:titleTextStyle">@color/black</item>
+	</style>
+
+	
+    
+    <style name="CKButton" parent="@android:style/Widget.CompoundButton">
+ 		<item name="android:textSize">19sp</item>
+ 		<item name="android:layout_margin">0dip</item>
+  	    <item name="android:background">#ff0000</item>
+ </style>
+
+    <!-- We aren't going to use these at the moment -->
+    <style name="SwitchPreference">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:padding">16dip</item>
+        <item name="android:focusable">false</item>
+    </style>
+
+    <style name="Widget.TextView.ListSeparator" parent="@android:style/Widget.TextView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+
+    <style name="PreferenceListHeader" parent="Widget.TextView.ListSeparator">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@color/blue</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:paddingLeft">6dp</item>
+    </style>
+    <!-- END Unused -->
+
+
+</resources>

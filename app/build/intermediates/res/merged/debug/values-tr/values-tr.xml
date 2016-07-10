@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="legal_links">
+    <item>@string/privacy_policy</item>
+    <item>@string/terms_and_conditions</item>
+  </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tamamlandı"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="alert_preferences">Bildirim Ayarları</string>
+    <string name="already_bonded">Öncelikle saatinizin açık ve çalışma menzili içinde olduğundan emin olun. Diğer Bağlı Saatler varsa lütfen önce bu saatlerin kapalı olduğundan emin olun.</string>
+    <string name="already_connected">Saatiniz zaten bağlı görünüyor.</string>
+    <string name="app_name">COOKOO Life</string>
+    <string name="are_you_sure">Emin misiniz?</string>
+    <string name="attempting_conn">Bir bağlantı girişimi zaten sürüyor. Bunu iptal etmek ister misiniz?</string>
+    <string name="attempting_connection">Bağlanmaya çalışılıyor</string>
+    <string name="batt_critical">Pil kritik</string>
+    <string name="batt_full">Pil dolu</string>
+    <string name="batt_low">Pil zayıf</string>
+    <string name="ble_not_supported">BLE desteklenmiyor</string>
+    <string name="camera_unsupported">Seçili Kamera desteklenmiyor.</string>
+    <string name="cancel">İptal</string>
+    <string name="change_password">Parola Değiştir</string>
+    <string name="clear_all">TÜMÜNÜ TEMİZLE</string>
+    <string name="clear_all_notif">Tüm bildirimler temizlensin mi?</string>
+    <string name="clicking_ok">Tamam\'ı tıklatmanız parolanızı sıfırlayacak.</string>
+    <string name="confirm_password">Parolayı Onayla</string>
+    <string name="connect">Bağlan</string>
+    <string name="connect_loop1">Bağlanıyor.</string>
+    <string name="connect_loop2">Bağlanıyor..</string>
+    <string name="connect_loop3">Bağlanıyor...</string>
+    <string name="connected">, Bağlı</string>
+    <string name="connected_ltd">CONNECTEDEVICE Ltd tüm hakları saklıdır.</string>
+    <string name="copyright">Telif Hakkı © 2014</string>
+    <string name="create_new_user">Yeni Kullanıcı Oluştur</string>
+    <string name="cycle_bluetooth">Öncelikle saatinizin açık ve çalışma menzili içinde olduğundan emin olun. Ardından Bluetooth\'u Yeniden Başlat\'a basın.</string>
+    <string name="cycling_bluetooth">Bluetooth Yeniden Başlatılıyor</string>
+    <string name="device_connecting">Aygıt bağlanıyor</string>
+    <string name="device_demo">Aygıt Demo</string>
+    <string name="device_is_oor">Bağlanmaya çalıştığınız aygıt çalışma menzili dışında veya açık değil.</string>
+    <string name="device_is_oos">Lütfen aygıtı eşleştirme moduna alın ve ardından bağlanmayı deneyin.</string>
+    <string name="device_not_found">Aygıt bulunamadı</string>
+    <string name="device_radar">Aygıt Listesi için buraya dokunun</string>
+    <string name="device_settings_press_find_android">Telefonumu bul</string>
+    <string name="device_settings_title_alerts">Uyarılar</string>
+    <string name="device_settings_title_battery_levels">Pil</string>
+    <string name="device_settings_title_command_button">Komut düğmesi</string>
+    <string name="device_settings_title_long_press">Uzun (4 + sn.)</string>
+    <string name="device_settings_title_medium_press">Orta (2–4 sn.)</string>
+    <string name="device_settings_title_short_press">Kısa (0-2 sn.)</string>
+    <string name="disconnected">Aygıtın bağlantısı kesildi.</string>
+    <string name="email">E-posta Adresi</string>
+    <string name="email_not_empty">Geçersiz e-posta adresi</string>
+    <string name="email_not_found">Bu e-posta adresi ile kayıtlı kullanıcı yok.</string>
+    <string name="error_bluetooth_not_supported">Bluetooth desteklenmiyor.</string>
+    <string name="existing_user">Mevcut Kullanıcı</string>
+    <string name="feedback">Geri bildirim</string>
+    <string name="firmware_revision">Ürün Bilgisi Revizyonu</string>
+    <string name="first_name">Ad</string>
+    <string name="forget">Aygıtı Unut</string>
+    <string name="forgot_password">Parolanızı mı unuttunuz?</string>
+    <string name="fragment_notification_list_created_righ_now">Şimdi</string>
+    <string name="fragment_notification_list_created_time">%1$s%2$s önce</string>
+    <string name="gen_new_token">Yeni Belirteç Oluştur</string>
+    <string name="gen_settings">Genel Ayarlar</string>
+    <string name="hardware_revision">Donanım Revizyonu</string>
+    <string name="having_trouble">Sorun mu yaşıyorsunuz?</string>
+    <string name="incorrect_pass">Yanlış parola - lütfen Eski Parolanızı tekrar girin.</string>
+    <string name="label_data">Veri:</string>
+    <string name="label_device_address">Aygıt adresi:</string>
+    <string name="label_state">Durum:</string>
+    <string name="last_name">Soyad</string>
+    <string name="legal">Yasal</string>
+    <string name="manage_account">Hesabı Yönet</string>
+    <string name="manage_accounts">Hesapları Yönet</string>
+    <string name="manufacturer">Üretici</string>
+    <string name="menu_connect">Bağlan</string>
+    <string name="menu_disconnect">Bağlantıyı kes</string>
+    <string name="menu_scan">Tara</string>
+    <string name="menu_stop">Durdur</string>
+    <string name="must_register">COOKOO Life App kullanımından önce kaydolmanız veya oturum açmanız gerekir.</string>
+    <string name="new_pass_no_match">Parolalar eşleşmiyor</string>
+    <string name="new_pass_not_blank">Yeni Parola boş olamaz</string>
+    <string name="new_password">Yeni Parola</string>
+    <string name="new_user">Yeni Kullanıcı</string>
+    <string name="no">Hayır</string>
+    <string name="no_data">Veri yok</string>
+    <string name="no_user_registered">Şu anda kayıtlı kullanıcı yok.</string>
+    <string name="not_connected">, Bağlı değil</string>
+    <string name="not_connected_text">Uygulama şu anda bir aygıta bağlı değil.</string>
+    <string name="not_connected_title">Bağlı Değil</string>
+    <string name="not_in_range">Saat çalışma menzili içinde değil. Bağlamadan önce lütfen menzil içine getirin.</string>
+    <string name="not_paired">Eşleştirilmemiş</string>
+    <string name="notif_demo">Bildirim türüne göre filtrele</string>
+    <string name="notification_perm">Lütfen kutuyu işaretleyerek bildirim izinlerini verin ve ardından telefonunuzda geri düğmesine dokunun.</string>
+    <string name="notification_recheck">Lütfen işareti kaldırın ve ardından bildirimleri yeniden başlatmak için kutuyu işaretleyin.</string>
+    <string name="notifications">Bildirimleri etkinleştir</string>
+    <string name="notifications_stopped">Bildirimler durduruldu</string>
+    <string name="ok">Tamam</string>
+    <string name="old_firmware_message">Üzerinde saat yazılımı v1.0.0004 çalışan aygıtlarda eşleştirmek için bir PIN kodu gerekebilir. İstenirse 000000 girin.</string>
+    <string name="old_firmware_warn">Uyarı</string>
+    <string name="old_pass_not_blank">Eski Parola boş olamaz</string>
+    <string name="old_password">Eski Parola</string>
+    <string name="out_of_range">Çalışma menzili dışında</string>
+    <string name="out_of_sync">Saaat eşitlenmemiş</string>
+    <string name="paired">Eşleştirilmiş</string>
+    <string name="pass_change_success">Parola başarıyla değiştirildi:</string>
+    <string name="password">Parola</string>
+    <string name="password_sent_to">Parola sıfırlama e-postası şuraya gönderildi:</string>
+    <string name="please_register">Lütfen Kaydolun</string>
+    <string name="pref_battery">Pil</string>
+    <string name="pref_event">Etkinlik</string>
+    <string name="pref_mail">Posta</string>
+    <string name="pref_phone">Telefon</string>
+    <string name="pref_private">Metin</string>
+    <string name="pref_social">Sosyal</string>
+    <string name="pref_voicemail">Sesli Mesaj</string>
+    <string name="privacy_policy">Gizlilik İlkesi</string>
+    <string name="problems_conn">Bağlantı kurulamıyor</string>
+    <string name="regist_success">Kayıt Başarılı</string>
+    <string name="repeat_new_password">Yeni Parolayı Tekrarlayın</string>
+    <string name="reset_email">Parola sıfırlama talimatları şuraya gönderildi:</string>
+    <string name="reset_password">Parolayı Sıfırla</string>
+    <string name="reset_success">Parola Sıfırlama Başarılı</string>
+    <string name="restart_bluetooth">Bluetooth\'u Yeniden Başlat</string>
+    <string name="set_up_notifications">Bildirimler ayarlanıyor</string>
+    <string name="sign_in">Oturum aç</string>
+    <string name="sign_in_success">Oturum Açma Başarılı</string>
+    <string name="sign_out">Oturumu kapat</string>
+    <string name="sign_up">Kaydol!</string>
+    <string name="skip">Atla ></string>
+    <string name="software_revision">Yazılım Revizyonu</string>
+    <string name="store">Mağaza</string>
+    <string name="str_image_processing">Resim işleme</string>
+    <string name="success">Başarılı</string>
+    <string name="success_connect">Aygıt başarıyla bağlandı</string>
+    <string name="support">Destek</string>
+    <string name="terms_and_conditions">Hüküm ve Koşullar</string>
+    <string name="title_devices">BLE Aygıt Tarama</string>
+    <string name="try_step_1">  1. Saati kapatın</string>
+    <string name="try_step_2">  2. Aygıtlara dokunun</string>
+    <string name="try_step_3">  3. Saati eşleştirme moduna alın</string>
+    <string name="try_step_4">  4. Aygıt listesindeki saate dokunun</string>
+    <string name="try_step_5">Bağlan\'a basın</string>
+    <string name="try_steps">Lütfen aşağıdaki adımları deneyin:</string>
+    <string name="unable_to_send">Parola değiştirilemiyor.</string>
+    <string name="unknown_characteristic">Bilinmeyen karakteristik</string>
+    <string name="unknown_device">Bilinmeyen aygıt</string>
+    <string name="unknown_service">Bilinmeyen hizmet</string>
+    <string name="unpair">Eşleştirmeyi kaldır</string>
+    <string name="watch_info">Aygıt Bilgisi</string>
+    <string name="welcome">Bağlı Saat uygulamasına hoş geldiniz.</string>
+</resources>

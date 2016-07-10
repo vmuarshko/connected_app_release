@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="connect_loop1">接続中・</string>
+    <string name="connect_loop2">接続中・・</string>
+    <string name="connect_loop3">接続中・・・</string>
+    
+    <string name="fragment_notification_list_created_righ_now">現在</string>
+    <string name="fragment_notification_list_created_time">%1$s, %2$s前</string>
+    
+    <string name="privacy_policy">プライバシー ポリシー</string>
+    <string name="terms_and_conditions">利用規約</string>
+    <string name="copyright">Copyright © 2014</string>
+    <string name="connected_ltd">CONNECTEDEVICE Ltd all rights reserved.</string>
+
+    <string name="pref_private">テキスト</string>
+    <string name="pref_social">ソーシャル</string>
+    <string name="pref_mail">メール</string>
+    <string name="pref_event">イベント</string>
+    <string name="pref_battery">電池</string>
+    <string name="pref_phone">電話</string>
+    <string name="pref_voicemail">留守番電話</string>
+
+    <string name="ok">OK</string>
+    
+    
+    <string name="app_name">接続済み</string>
+    <string name="action_settings">設定</string>
+    <string name="ble_not_supported">BLE未対応</string>
+    <string name="label_data">データ</string>
+    <string name="label_device_address">デバイスアドレス：</string>
+    <string name="label_state">州：</string>
+    <string name="no_data">データがありません</string>
+    <string name="connected">接続済み</string>
+    <string name="not_connected">未接続</string>
+    <string name="title_devices">BLEデバイススキャン</string>
+    <string name="error_bluetooth_not_supported">Bluetoothに未対応</string>
+    <string name="paired">ペアリング済み</string>
+    <string name="not_paired">ペアリングされていません</string>
+
+    <string name="unknown_device">不明なデバイス</string>
+    <string name="unknown_characteristic">不明な特性</string>
+    <string name="unknown_service">不明なサービス</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">接続</string>
+    <string name="menu_disconnect">連携解除</string>
+    <string name="menu_scan">スキャン</string>
+    <string name="menu_stop">停止</string>
+    
+    <string name="str_image_processing">画像処理</string>
+       
+    <string name="device_settings_title_short_press">短い（0-2秒）</string>
+    <string name="device_settings_title_medium_press">ふつう（2-4秒）</string>
+    <string name="device_settings_title_long_press">長い（4 +秒）</string>
+    <string name="device_settings_title_alerts">アラート</string>
+    <string name="device_settings_title_battery_levels">電池</string>
+    <string name="device_settings_title_command_button">コマンドボタン</string>
+	<string name="device_settings_press_find_android">携帯を見つける</string>
+
+    <string name="old_firmware_warn">通知</string>
+    <string name="old_firmware_message">時計ソフトウェアのv1.0.0004を実行しているデバイスは、ペアリングにPINコードが必要な場合があります。要求された場合は000000を入力してください。</string>
+
+    <string name="no">いいえ</string>
+    <string name="already_connected">この時計はすでに接続されている可能性があります。</string>
+    <string name="connect">接続</string>
+    <string name="unpair">ペアリング解除</string>
+    <string name="already_bonded">初めに時計の電源が入っていて範囲内にあることを確認してください。別のConnected Watchがある場合は、初めにそれらの時計の電源をオフにしてください。</string>
+    <string name="skip">スキップ &gt;</string>
+
+    <string name="out_of_range">範囲外</string>
+    <string name="disconnected">デバイスが切断されました。</string>
+    <string name="problems_conn">接続することができません</string>
+    <string name="cycle_bluetooth">初めに時計の電源が入っていて範囲内にあることを確認してください。そのあとBluetoothを再起動を押してください。</string>
+    <string name="restart_bluetooth">Bluetoothを再起動</string>
+    <string name="cycling_bluetooth">Bluetoothを再起動中</string>
+    <string name="attempting_conn">既に接続を試みています。キャンセルしますか？</string>
+    <string name="device_is_oor">接続しようとしているデバイスは、範囲外か電源が入っていません。</string>
+    <string name="device_is_oos">デバイスをペアリングモードにして接続してみてください。</string>
+    <string name="out_of_sync">時計が同期していません</string>
+
+    <string name="not_in_range">時計が範囲外です。接続前に範囲内に移動してください。</string>
+
+
+    <string name="attempting_connection">接続中</string>
+    <string name="device_connecting">デバイスは接続中です</string>
+    <string name="set_up_notifications">通知の設定</string>
+
+    <string name="notifications">通知を有効にする</string>
+    <string name="notification_perm">このボックスにチェックを入れて通知許可を与え、携帯の戻るボタンを押してください。</string>
+    <string name="welcome">COOKOO Lifeアプリケーションにようこそ。</string>
+    <string name="notification_recheck">通知を再開するにはボックスのチェックを外してからチェックを入れなおしてください。</string>
+    <string name="notifications_stopped">通知停止済み</string>
+
+    <string name="camera_unsupported">選択されたカメラには対応していません。</string>
+
+    <string name="try_steps">次の手段を試してください：</string>
+    <string name="try_step_1">1.時計をオフにする</string>
+    <string name="try_step_2">2.デバイスをタップ</string>
+    <string name="try_step_3">3.時計をペアリングモードにする</string>
+    <string name="try_step_4">4.デバイス一覧で時計をタップ</string>
+    <string name="try_step_5">5.接続を押す</string>
+    <string name="success_connect">デバイスに接続成功</string>
+
+
+
+
+
+    <!-- ACCOUNT -->
+    <string name="create_new_user">新規ユーザーを作成</string>
+    <string name="gen_new_token">新しいトークンを作成</string>
+    <string name="forgot_password">パスワードをお忘れですか？</string>
+    <string name="email_not_empty">無効なメール アドレス</string>
+    <string name="reset_success">パスワードのリセットに成功</string>
+    <string name="reset_email">パスワードのリセット手順が送信されました</string>
+    <string name="sign_in">サインイン</string>
+    <string name="sign_out">サインアウト</string>
+    <string name="manage_account">アカウントの管理</string>
+    <string name="old_password">旧パスワード</string>
+    <string name="new_password">新しいパスワード</string>
+    <string name="repeat_new_password">新しいパスワードを再入力</string>
+    <string name="new_pass_no_match">パスワードが一致していません</string>
+    <string name="change_password">パスワードを変更</string>
+    <string name="reset_password">パスワードをリセット</string>
+    <string name="cancel">キャンセル</string>
+    <string name="no_user_registered">現在ユーザーが登録されていません。</string>
+    <string name="incorrect_pass">不正なパスワード - 旧パスワードを再入力してください。</string>
+    <string name="email_not_found">このメールアドレスではユーザーが登録されていません。</string>
+
+    <string name="device_demo">デバイスのデモ</string>
+    <string name="clear_all">すべて消去</string>
+    <string name="clear_all_notif">すべての通知を消去しますか？</string>
+
+    <string name="gen_settings">一般設定</string>
+    <string name="manage_accounts">アカウントの管理</string>
+    <string name="support">サポート</string>
+    <string name="feedback">フィードバック</string>
+    <string name="legal">法的情報</string>
+    <string name="store">ストア</string>
+    <string name="watch_info">デバイス情報</string>
+    <string name="email">メールアドレス</string>
+    <string name="password">パスワード</string>
+    <string name="having_trouble">お困りですか？</string>
+    <string name="device_radar">デバイス一覧はにここをタップ</string>
+    <string name="notif_demo">通知タイプによる絞り込み</string>
+
+    <string name="new_user">新規ユーザー</string>
+    <string name="first_name">名</string>
+    <string name="last_name">姓</string>
+    <string name="confirm_password">パスワードの確認</string>
+    <string name="sign_up">サインアップ！</string>
+    <string name="existing_user">既存のユーザー</string>
+
+    <string name="password_sent_to">パスワードリセットメールの送信先：</string>
+    <string name="unable_to_send">パスワードを変更することができません。</string>
+    <string name="are_you_sure">よろしいですか？</string>
+    <string name="clicking_ok">OKをクリックするとパスワードがリセットされます。</string>
+    <string name="pass_change_success">次のパスワードが無事変更されました：</string>
+    <string name="old_pass_not_blank">旧パスワードは入力必須です</string>
+    <string name="new_pass_not_blank">新パスワードは入力必須です</string>
+
+    <string name="please_register">登録してください</string>
+    <string name="must_register">COOKOO Lifeアプリの使用前に登録またはサインインする必要があります。</string>
+    <string name="regist_success">登録完了</string>
+    <string name="sign_in_success">サインイン完了</string>
+    <string name="success">成功</string>
+    <string name="device_not_found">デバイスが見つかりません</string>
+
+
+
+    <string name="batt_low">電池残量低下</string>
+    <string name="batt_full">電池が満タンです</string>
+    <string name="batt_critical">電池が致命的状態です</string>
+
+    <string-array name="legal_links">
+    <item>@string/privacy_policy</item>
+    <item>@string/terms_and_conditions</item>
+  </string-array>
+
+    <string name="alert_preferences">お知らせ機能設定</string>
+    <string name="forget">デバイスの消去</string>
+    <string name="manufacturer">製造元</string>
+    <string name="software_revision">ソフトウェア改正</string>
+    <string name="hardware_revision">ハードウェア改正</string>
+    <string name="firmware_revision">ファームウェア改正</string>
+    <string name="not_connected_title">接続されていません</string>
+    <string name="not_connected_text">このアプリケーションは現在、デバイスへ接続されていません。</string>
+
+</resources>

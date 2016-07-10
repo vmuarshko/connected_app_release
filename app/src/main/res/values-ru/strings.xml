@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="connect_loop1">Подключение.</string>
+    <string name="connect_loop2">Подключение..</string>
+    <string name="connect_loop3">Подключение...</string>
+    
+    <string name="fragment_notification_list_created_righ_now">Прямо сейчас</string>
+    <string name="fragment_notification_list_created_time">%1$s%2$s назад</string>
+    
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="terms_and_conditions">Условия использования</string>
+    <string name="copyright">Авторское право © 2014</string>
+    <string name="connected_ltd">CONNECTEDEVICE Ltd - все права защищены.</string>
+
+    <string name="pref_private">Текст</string>
+    <string name="pref_social">Социальные сети</string>
+    <string name="pref_mail">Почта</string>
+    <string name="pref_event">События</string>
+    <string name="pref_battery">Аккумулятор</string>
+    <string name="pref_phone">Телефон</string>
+    <string name="pref_voicemail">Голосовая почта</string>
+
+    <string name="ok">ОК</string>
+    
+    
+    <string name="app_name">COOKOO Life</string>
+    <string name="action_settings">Настройки</string>
+    <string name="ble_not_supported">BLE не поддерживается</string>
+    <string name="label_data">Данные:</string>
+    <string name="label_device_address">Адрес устройства:</string>
+    <string name="label_state">Состояние:</string>
+    <string name="no_data">Данных нет</string>
+    <string name="connected">, Подключено</string>
+    <string name="not_connected">, Не подключено</string>
+    <string name="title_devices">Поиск BLE-устройств</string>
+    <string name="error_bluetooth_not_supported">Bluetooth не поддерживается.</string>
+    <string name="paired">Сопряжено</string>
+    <string name="not_paired">Не сопряжено</string>
+
+    <string name="unknown_device">Неизвестное устройство</string>
+    <string name="unknown_characteristic">Неизвестная характеристика</string>
+    <string name="unknown_service">Неизвестная служба</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Подключить</string>
+    <string name="menu_disconnect">Отключить</string>
+    <string name="menu_scan">Поиск</string>
+    <string name="menu_stop">Стоп</string>
+    
+    <string name="str_image_processing">Обработка изображения</string>
+       
+    <string name="device_settings_title_short_press">Быстрое (0-2 сек)</string>
+    <string name="device_settings_title_medium_press">Среднее (2-4 сек)</string>
+    <string name="device_settings_title_long_press">Долгое 4+ сек)</string>
+    <string name="device_settings_title_alerts">Уведомления</string>
+    <string name="device_settings_title_battery_levels">Аккумулятор</string>
+    <string name="device_settings_title_command_button">Кнопка управления</string>
+	<string name="device_settings_press_find_android">Найти мой телефон</string>
+
+    <string name="old_firmware_warn">Примечание</string>
+    <string name="old_firmware_message">Для сопряжения устройств, работающих с версией программного обеспечения v1.0.0004, может потребоваться ввод PIN-кода. Если появляется запрос на ввод кода сопряжения, введите 000000.</string>
+
+    <string name="no">Нет</string>
+    <string name="already_connected">Ваше устройство, по-видимому, уже подключено.</string>
+    <string name="connect">Подключить</string>
+    <string name="unpair">Отменить сопряжение</string>
+    <string name="already_bonded">Сперва удостоверьтесь, что часы включены и находятся в зоне покрытия. Если у вас есть другие часы Connected Watches, удостоверьтесь, что они выключены.</string>
+    <string name="skip">Пропустить &gt;</string>
+
+    <string name="out_of_range">Вне зоны действия</string>
+    <string name="disconnected">Устройство было отключено.</string>
+    <string name="problems_conn">Подключение невозможно</string>
+    <string name="cycle_bluetooth">Сперва удостоверьтесь, что ваши часы включены и находятся в зоне действия. Затем нажмите кнопку \"Перезапустить Bluetooth\".</string>
+    <string name="restart_bluetooth">Перезапустить Bluetooth</string>
+    <string name="cycling_bluetooth">Перезапуск Bluetooth</string>
+    <string name="attempting_conn">Попытка подключения уже выполняется. Вы хотите отменить ее?</string>
+    <string name="device_is_oor">Устройство, к которому вы пытаетесь подключиться, выключено или находится вне зоны действия.</string>
+    <string name="device_is_oos">Переведите устройство в режим сопряжения и попытайтесь подключиться к нему.</string>
+    <string name="out_of_sync">Часы не синхронизированы</string>
+
+    <string name="not_in_range">Часы вне зоны покрытия. Перед тем, как подключиться, переместите часы в зону покрытия.</string>
+
+
+    <string name="attempting_connection">Попытка подключения</string>
+    <string name="device_connecting">Устройство подключается</string>
+    <string name="set_up_notifications">Настройка уведомлений</string>
+
+    <string name="notifications">Включить уведомления</string>
+    <string name="notification_perm">Дайте разрешение на уведомления, установив соответствующий флажок, и затем нажмите на вашем телефоне кнопку \"Назад\".</string>
+    <string name="welcome">Добро пожаловать в приложение COOKOO Life.</string>
+    <string name="notification_recheck">Для перезапуска уведомлений уберите, а затем снова установите соответствующий флажок.</string>
+    <string name="notifications_stopped">Уведомления остановлены</string>
+
+    <string name="camera_unsupported">Выбранная камера не поддерживается.</string>
+
+    <string name="try_steps">Попробуйте выполнить следующие действия:</string>
+    <string name="try_step_1">1. Выключите часы</string>
+    <string name="try_step_2">2. Нажмите на Устройства</string>
+    <string name="try_step_3">3. Переведите часы в режим сопряжения</string>
+    <string name="try_step_4">4. Выберите нужные часы в списке устройств</string>
+    <string name="try_step_5">5. Нажмите \"Подключить\"</string>
+    <string name="success_connect">Устройство успешно подключено</string>
+
+
+
+
+
+    <!-- ACCOUNT -->
+    <string name="create_new_user">Создать нового пользователя</string>
+    <string name="gen_new_token">Создать новый токен</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="email_not_empty">Неправильный адрес электронной почты</string>
+    <string name="reset_success">Пароль успешно сброшен</string>
+    <string name="reset_email">Инструкции по сбросу пароля отправлены на адрес</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_out">Выйти</string>
+    <string name="manage_account">Управление учетной записью</string>
+    <string name="old_password">Старый пароль</string>
+    <string name="new_password">Новый пароль</string>
+    <string name="repeat_new_password">Повторить новый пароль</string>
+    <string name="new_pass_no_match">Пароли не совпадают</string>
+    <string name="change_password">Сменить пароль</string>
+    <string name="reset_password">Сбросить пароль</string>
+    <string name="cancel">Отмена</string>
+    <string name="no_user_registered">В настоящее время нет ни одного зарегистрированного пользователя.</string>
+    <string name="incorrect_pass">Неправильный пароль - введите старый пароль еще раз</string>
+    <string name="email_not_found">Нет зарегистрированного пользователя с таким адресом электронной почты.</string>
+
+    <string name="device_demo">Демонстрация устройства</string>
+    <string name="clear_all">ОЧИСТИТЬ ВСЕ</string>
+    <string name="clear_all_notif">Очистить все уведомления?</string>
+
+    <string name="gen_settings">Общие настройки</string>
+    <string name="manage_accounts">Управление учетными записями</string>
+    <string name="support">Поддержка</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="legal">Юридические основания</string>
+    <string name="store">Магазин</string>
+    <string name="watch_info">Информация об устройстве</string>
+    <string name="email">Адрес электронной почты</string>
+    <string name="password">Пароль</string>
+    <string name="having_trouble">Возникли проблемы?</string>
+    <string name="device_radar">Чтобы вывести список устройств, нажмите здесь</string>
+    <string name="notif_demo">Фильтрация по типу уведомления</string>
+
+    <string name="new_user">Новый пользователь</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="confirm_password">Подтвердить пароль</string>
+    <string name="sign_up">Зарегистрироваться!</string>
+    <string name="existing_user">Существующий пользователь</string>
+
+    <string name="password_sent_to">Письмо с информацией для сброса пароля отправлено на адрес:</string>
+    <string name="unable_to_send">Невозможно изменить пароль.</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="clicking_ok">Чтобы сбросить пароль, нажмите ОК.</string>
+    <string name="pass_change_success">Пароль успешно изменен на:</string>
+    <string name="old_pass_not_blank">Поле старого пароля не может быть пустым</string>
+    <string name="new_pass_not_blank">Поле нового пароля не может быть пустым</string>
+
+    <string name="please_register">Пожалуйста, зарегистрируйтесь</string>
+    <string name="must_register">Прежде чем использовать приложение COOKOO Life, вы должны зарегистрироваться или войти в систему.</string>
+    <string name="regist_success">Регистрация выполнена успешно</string>
+    <string name="sign_in_success">Успешный вход</string>
+    <string name="success">Успешно</string>
+    <string name="device_not_found">Устройство не найдено</string>
+
+
+
+    <string name="batt_low">Низкий уровень заряда аккумулятора</string>
+    <string name="batt_full">Аккумулятор полностью заряжен</string>
+    <string name="batt_critical">Аккумулятор в критическом состоянии</string>
+
+    <string-array name="legal_links">
+    <item>@string/privacy_policy</item>
+    <item>@string/terms_and_conditions</item>
+  </string-array>
+
+    <string name="alert_preferences">Настройки уведомлений</string>
+    <string name="forget">Забыть устройство</string>
+    <string name="manufacturer">Производитель</string>
+    <string name="software_revision">Версия программного обеспечения</string>
+    <string name="hardware_revision">Версия аппаратной части</string>
+    <string name="firmware_revision">Версия прошивки</string>
+    <string name="not_connected_title">Не подключено</string>
+    <string name="not_connected_text">В настоящее время приложение не подключено к устройству.</string>
+
+</resources>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="connect_loop1">Verbindung.</string>
+    <string name="connect_loop2">Verbindung..</string>
+    <string name="connect_loop3">Verbindung...</string>
+    
+    <string name="fragment_notification_list_created_righ_now">Gerade eben</string>
+    <string name="fragment_notification_list_created_time">vor %1$s%2$s</string>
+    
+    <string name="privacy_policy">Datenschutz</string>
+    <string name="terms_and_conditions">Allgemeine Geschäftsbedingungen</string>
+    <string name="copyright">Copyright © 2014</string>
+    <string name="connected_ltd">CONNECTEDEVICE Ltd alle Rechte vorbehalten.</string>
+
+    <string name="pref_private">SMS</string>
+    <string name="pref_social">Sozial</string>
+    <string name="pref_mail">E-Mail</string>
+    <string name="pref_event">Ereignis</string>
+    <string name="pref_battery">Batterie</string>
+    <string name="pref_phone">Telefon</string>
+    <string name="pref_voicemail">Voicemail</string>
+
+    <string name="ok">OK</string>
+    
+    
+    <string name="app_name">COOKOO Life</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="ble_not_supported">BLE wird nicht unterstützt</string>
+    <string name="label_data">Daten:</string>
+    <string name="label_device_address">Geräteadresse:</string>
+    <string name="label_state">Status:</string>
+    <string name="no_data">Keine Daten</string>
+    <string name="connected">, verbunden</string>
+    <string name="not_connected">, nicht verbunden</string>
+    <string name="title_devices">BLE-Gerätesuche</string>
+    <string name="error_bluetooth_not_supported">Bluetooth wird nicht unterstützt.</string>
+    <string name="paired">Gekoppelt</string>
+    <string name="not_paired">Nicht gekoppelt</string>
+
+    <string name="unknown_device">Unbekanntes Gerät</string>
+    <string name="unknown_characteristic">Unbekannte Eigenschaft</string>
+    <string name="unknown_service">Unbekannter Service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Verbinden</string>
+    <string name="menu_disconnect">Trennen</string>
+    <string name="menu_scan">Suchen</string>
+    <string name="menu_stop">Stopp</string>
+    
+    <string name="str_image_processing">Bild wird bearbeitet</string>
+       
+    <string name="device_settings_title_short_press">Kurz  (0–2 sec.)</string>
+    <string name="device_settings_title_medium_press">Mittel (2–4 sec.)</string>
+    <string name="device_settings_title_long_press">Lang (4+ sec.)</string>
+    <string name="device_settings_title_alerts">Alarme</string>
+    <string name="device_settings_title_battery_levels">Batterie</string>
+    <string name="device_settings_title_command_button">Schaltfläche</string>
+	<string name="device_settings_press_find_android">Mein Handy finden</string>
+
+    <string name="old_firmware_warn">Hinweis</string>
+    <string name="old_firmware_message">Geräte mit Uhren-Software v1.0.0004 könnten eine PIN für die Kopplung benötigen. Falls erforderlich, bitte 000000 eingeben.</string>
+
+    <string name="no">Nein</string>
+    <string name="already_connected">Ihre Uhr scheint bereits verbunden zu sein.</string>
+    <string name="connect">Verbinden</string>
+    <string name="unpair">Trennen</string>
+    <string name="already_bonded">Stellen Sie zuerst sicher, dass Ihre Uhr an ist und sich in Reichweite befindet. Wenn Sie andere Uhren verbunden haben, stellen Sie bitte zuerst sicher, dass diese aus sind.</string>
+    <string name="skip">Überspringen &gt;</string>
+
+    <string name="out_of_range">Außer Reichweite</string>
+    <string name="disconnected">Gerät wurde getrennt.</string>
+    <string name="problems_conn">Verbindung nicht möglich</string>
+    <string name="cycle_bluetooth">Stellen Sie zuerst sicher, dass Ihre Uhr an ist und sich in Reichweite befindet. Dann drücken Sie Bluetooth neu starten.</string>
+    <string name="restart_bluetooth">Bluetooth neu starten</string>
+    <string name="cycling_bluetooth">Bluetooth wird neu gestartet</string>
+    <string name="attempting_conn">Ein Verbindungsversuch ist bereits im Vorgang. Wollen Sie diesen abbrechen?</string>
+    <string name="device_is_oor">Das Gerät, das Sie versuchen zu verbinden, ist entweder außer Reichweite oder nicht angeschaltet.</string>
+    <string name="device_is_oos">Bitte bringen Sie Ihr Gerät in Kopplungsmodus und versuchen es dann zu verbinden.</string>
+    <string name="out_of_sync">Uhr ist nicht mehr synchron</string>
+
+    <string name="not_in_range">Uhr ist außer Reichweite. Bitte bringen Sie sie vor dem Verbinden in Reichweite.</string>
+
+
+    <string name="attempting_connection">Verbindungsversuch</string>
+    <string name="device_connecting">Gerät wird verbunden</string>
+    <string name="set_up_notifications">Mitteilungen werden eingerichtet</string>
+
+    <string name="notifications">Mitteilungen aktivieren</string>
+    <string name="notification_perm">Bitte erlauben Sie Mitteilungen durch Markieren des Kontrollkästchens, dann drücken Sie Zurück auf Ihrem Handy.</string>
+    <string name="welcome">Willkommen bei der COOKOO Life App.</string>
+    <string name="notification_recheck">Bitte Markierung aufheben und erneut anbringen, um Mitteilungen neu zu starten.</string>
+    <string name="notifications_stopped">Mitteilungen wurden gestoppt</string>
+
+    <string name="camera_unsupported">Ausgewählte Kamera wird nicht unterstützt.</string>
+
+    <string name="try_steps">Versuchen Sie Folgendes:</string>
+    <string name="try_step_1">1. Uhr ausschalten</string>
+    <string name="try_step_2">2. Geräte antippen</string>
+    <string name="try_step_3">3. Uhr in Kopplungsmodus versetzen</string>
+    <string name="try_step_4">4. Uhr in Geräteliste antippen</string>
+    <string name="try_step_5">5. Auf Verbinden tippen</string>
+    <string name="success_connect">Gerät wurde erfolgreich verbunden</string>
+
+
+
+
+
+    <!-- ACCOUNT -->
+    <string name="create_new_user">Neuen Benutzer erstellen</string>
+    <string name="gen_new_token">Neuen Token generieren</string>
+    <string name="forgot_password">Passwort vergessen?</string>
+    <string name="email_not_empty">Ungültige E-Mail-Adresse</string>
+    <string name="reset_success">Passwort wurde erfolgreich zurückgesetzt</string>
+    <string name="reset_email">Anweisungen zum Zurücksetzen des Passworts wurden gesendet an</string>
+    <string name="sign_in">Anmelden</string>
+    <string name="sign_out">Abmelden</string>
+    <string name="manage_account">Konto verwalten</string>
+    <string name="old_password">Altes Passwort</string>
+    <string name="new_password">Neues Passwort</string>
+    <string name="repeat_new_password">Neues Passwort wiederholen</string>
+    <string name="new_pass_no_match">Passwörter stimmen nicht überein</string>
+    <string name="change_password">Passwort ändern</string>
+    <string name="reset_password">Passwort zurücksetzen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="no_user_registered">Derzeit ist kein Benutzer registriert.</string>
+    <string name="incorrect_pass">Ungültiges Passwort - bitte geben Sie Ihr altes Passwort erneut ein.</string>
+    <string name="email_not_found">Es ist kein Benutzer mit dieser E-Mail-Adresse registriert.</string>
+
+    <string name="device_demo">Gerätedemo</string>
+    <string name="clear_all">ALLE LÖSCHEN</string>
+    <string name="clear_all_notif">Alle Mitteilungen löschen?</string>
+
+    <string name="gen_settings">Allgemeine Einstellungen</string>
+    <string name="manage_accounts">Konten verwalten</string>
+    <string name="support">Support</string>
+    <string name="feedback">Feedback</string>
+    <string name="legal">Rechtliches</string>
+    <string name="store">Store</string>
+    <string name="watch_info">Geräteinfo</string>
+    <string name="email">E-Mail-Adresse</string>
+    <string name="password">Passwort</string>
+    <string name="having_trouble">Gibt es ein Problem?</string>
+    <string name="device_radar">Tippen Sie hier für die Geräteliste</string>
+    <string name="notif_demo">Nach Mitteilungsart filtern</string>
+
+    <string name="new_user">Neuer Benutzer</string>
+    <string name="first_name">Vorname</string>
+    <string name="last_name">Nachname</string>
+    <string name="confirm_password">Passwort bestätigen</string>
+    <string name="sign_up">Registrieren Sie sich!</string>
+    <string name="existing_user">Existierender Benutzer</string>
+
+    <string name="password_sent_to">E-Mail zum Zurücksetzen des Passworts gesendet an:</string>
+    <string name="unable_to_send">Passwort kann nicht geändert werden.</string>
+    <string name="are_you_sure">Sind Sie sicher?</string>
+    <string name="clicking_ok">Durch Klicken auf OK wird Ihr Passwort zurückgesetzt.</string>
+    <string name="pass_change_success">Passwort wurde erfolgreich geändert für:</string>
+    <string name="old_pass_not_blank">Altes Passwort kann nicht leer sein</string>
+    <string name="new_pass_not_blank">Neues Passwort kann nicht leer sein</string>
+
+    <string name="please_register">Bitte registrieren</string>
+    <string name="must_register">Sie müssen sich registrieren oder anmelden, um die COOKOO Life App zu nutzen.</string>
+    <string name="regist_success">Erfolgreich registriert</string>
+    <string name="sign_in_success">Erfolgreich angemeldet</string>
+    <string name="success">War erfolgreich</string>
+    <string name="device_not_found">Gerät wurde nicht gefunden</string>
+
+
+
+    <string name="batt_low">Batterie ist schwach</string>
+    <string name="batt_full">Batterie ist vollgeladen</string>
+    <string name="batt_critical">kritischer Batteriezustand</string>
+
+    <string-array name="legal_links">
+    <item>@string/privacy_policy</item>
+    <item>@string/terms_and_conditions</item>
+  </string-array>
+
+    <string name="alert_preferences">Mitteilungseinstellungen</string>
+    <string name="forget">Gerät verwerfen</string>
+    <string name="manufacturer">Hersteller</string>
+    <string name="software_revision">Software-Version</string>
+    <string name="hardware_revision">Hardware-Version</string>
+    <string name="firmware_revision">Firmware-Version</string>
+    <string name="not_connected_title">Nicht verbunden</string>
+    <string name="not_connected_text">App ist derzeit nicht mit einem Gerät verbunden.</string>
+
+</resources>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_in_anim.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\anim\\left_in_anim.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_in_anim.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\anim\\right_in_anim.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_out_anim.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\anim\\left_out_anim.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_out_anim.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\anim\\right_out_anim.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\anim\\abc_fade_in.xml"
+    }
+]

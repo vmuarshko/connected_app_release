@@ -1,0 +1,125 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\codeStyleSettings.xml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\libraries\
+* .idea\libraries\android_support_v4.xml
+* .idea\libraries\libs.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\uiDesigner.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* Dev_Guide_Cookoo_Life_4.3.pdf
+* SDK-notificare\
+* SDK-notificare\.idea\
+* SDK-notificare\.idea\.name
+* SDK-notificare\.idea\compiler.xml
+* SDK-notificare\.idea\copyright\
+* SDK-notificare\.idea\copyright\profiles_settings.xml
+* SDK-notificare\.idea\encodings.xml
+* SDK-notificare\.idea\misc.xml
+* SDK-notificare\.idea\modules.xml
+* SDK-notificare\.idea\scopes\
+* SDK-notificare\.idea\scopes\scope_settings.xml
+* SDK-notificare\.idea\uiDesigner.xml
+* SDK-notificare\.idea\vcs.xml
+* SDK-notificare\.idea\workspace.xml
+* SDK-notificare\.project
+* SDK-notificare\AndroidManifest.xml
+* SDK-notificare\NotificarePushLib.iml
+* SDK-notificare\SDK-notificare.iml
+* SDK-notificare\SDK.iml
+* SDK-notificare\assets\
+* SDK-notificare\assets\notificareconfig.properties
+* SDK-notificare\bin\
+* SDK-notificare\bin\NotificarePushLib.apk
+* SDK-notificare\bin\NotificarePushLib.unaligned.apk
+* SDK-notificare\bin\re\
+* SDK-notificare\bin\re\notifica\
+* SDK-notificare\bin\re\notifica\BuildConfig.class
+* SDK-notificare\bin\re\notifica\R$attr.class
+* SDK-notificare\bin\re\notifica\R$id.class
+* SDK-notificare\bin\re\notifica\R$layout.class
+* SDK-notificare\bin\re\notifica\R$string.class
+* SDK-notificare\bin\re\notifica\R.class
+* SDK-notificare\gen\
+* SDK-notificare\gen\re\
+* SDK-notificare\gen\re\notifica\
+* SDK-notificare\gen\re\notifica\BuildConfig.java
+* SDK-notificare\gen\re\notifica\Manifest.java
+* SDK-notificare\gen\re\notifica\R.java
+* SDK-notificare\libs\
+* SDK-notificare\libs\notificare-push-lib.jar
+* SDK-notificare\notificareconfig.properties
+* SDK-notificare\project.properties
+* SDK-notificare\res\
+* SDK-notificare\res\layout\
+* SDK-notificare\res\layout\notificare_alert_dialog.xml
+* SDK-notificare\res\layout\notificare_notification_container.xml
+* SDK-notificare\res\layout\notificare_notification_fragment.xml
+* SDK-notificare\res\values\
+* SDK-notificare\res\values\strings.xml
+* builds\
+* builds\COOKOO_LIFE_1_0_0019_RELEASE.apk
+* builds\COOKOO_LIFE_1_0_0020_RELEASE.apk
+* builds\COOKOO_LIFE_1_0_0024_RELEASE.apk
+* connected_app.iml
+* connected_app_release.iml
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\google-play-services.jar => app\libs\google-play-services.jar
+* libs\ksoap2-android-assembly-3.1.0-jar-with-dependencies.jar => app\libs\ksoap2-android-assembly-3.1.0-jar-with-dependencies.jar
+* libs\NotificarePushLib-0.9.5.jar => app\libs\NotificarePushLib-0.9.5.jar
+* libs\stackmob-android-sdk-1.3.5.jar => app\libs\stackmob-android-sdk-1.3.5.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

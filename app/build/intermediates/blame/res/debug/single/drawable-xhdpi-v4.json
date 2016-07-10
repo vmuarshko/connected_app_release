@@ -1,0 +1,702 @@
+[
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_flash_on.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\camera_flash_on.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\white_border.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\white_border.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cookoo_connect1.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\cookoo_connect1.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ncp_voicemail.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\ncp_voicemail.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\findme_icon.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\findme_icon.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\marketing3.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\marketing3.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ncp_private.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\ncp_private.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\global_settings.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\global_settings.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seen_email.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\seen_email.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_schedule.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_schedule.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_private.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_private.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_btn_toggle.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\blue_btn_toggle.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_system_high.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_system_high.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lock_icon_blue.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\lock_icon_blue.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\marketing2.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\marketing2.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc2_battery_low.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc2_battery_low.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_flash_auto.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\camera_flash_auto.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seen_social.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\seen_social.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\green_btn_toggle.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\green_btn_toggle.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\device_settings_blue.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\device_settings_blue.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_bg_disabled_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_pressed_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lock_icon.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\lock_icon.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_flash_torch.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\camera_flash_torch.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_blue.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\camera_blue.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_shot_selected.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\camera_shot_selected.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\no_border.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\no_border.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_email.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_email.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ncp_battery.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\ncp_battery.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc2_call.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc2_call.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\findme_blue_icon.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\findme_blue_icon.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_battery_normal.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_battery_normal.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_bg.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ncp_schedule.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\ncp_schedule.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\circle.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\circle.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\music_control.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\music_control.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clear_all_switch.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\clear_all_switch.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_voicemail.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_voicemail.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_flash_off.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\camera_flash_off.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_orange.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\camera_orange.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc2_email.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc2_email.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc2_schedule.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc2_schedule.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seen_call.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\seen_call.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_button.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\find_button.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_switch.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\camera_switch.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_shot_selector.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\camera_shot_selector.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_shot.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\camera_shot.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_icon.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\camera_icon.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\device_settings_orange.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\device_settings_orange.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb_disabled_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\global_settings_button.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\global_settings_button.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc2_alarm.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc2_alarm.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ncp_alarm.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\ncp_alarm.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_no_content.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\list_no_content.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\alarm_orange.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\alarm_orange.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ncp_email.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\ncp_email.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\device_settings.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\device_settings.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seen_private.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\seen_private.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_toggle.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\btn_toggle.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc2_voicemail.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc2_voicemail.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_gray_btn_toggle.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\blue_gray_btn_toggle.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cookoo_connect.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\cookoo_connect.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\device_settings_button.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\device_settings_button.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\alarm_blue.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\alarm_blue.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_battery_critical.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_battery_critical.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\marketing4.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\marketing4.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc2_social.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc2_social.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc2_system.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc2_system.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fragment_camera.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\fragment_camera.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\red_gray_btn_toggle.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\red_gray_btn_toggle.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_thumb.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc2_battery_crit.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc2_battery_crit.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_battery_crit.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_battery_crit.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_social.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_social.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\android_icon.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\android_icon.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\connect_switch.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\connect_switch.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\global_settings_blue.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\global_settings_blue.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_blue.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\find_blue.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mag_btn_toggle.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\mag_btn_toggle.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\global_settings_orange.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\global_settings_orange.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\connected_selector.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\connected_selector.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_alarm.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_alarm.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\android_button.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\android_button.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_button.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\camera_button.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_battery.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_battery.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_clear.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_clear.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\marketing1.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\marketing1.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seen_battery.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\seen_battery.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_bg_focused_holo_light.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_orange.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\find_orange.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_call.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_call.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_battery_low.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_battery_low.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\orange_btn_toggle.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\orange_btn_toggle.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_call_missed.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_call_missed.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seen_voicemail.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\seen_voicemail.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seen_schedule.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\seen_schedule.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc2_private.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc2_private.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ncp_social.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\ncp_social.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nc_system.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\nc_system.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\alarm_button.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\alarm_button.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cookoo_life.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\cookoo_life.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_inner_holo_light.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\switch_inner_holo_light.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\switch_track_holo_light.xml",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\switch_track_holo_light.xml"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable-xhdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\_work\\connected\\connected_app_release_import\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ncp_call.png",
+        "source": "D:\\_work\\connected\\connected_app_release_import\\app\\src\\main\\res\\drawable-xhdpi\\ncp_call.png"
+    }
+]

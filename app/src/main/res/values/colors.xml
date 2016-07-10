@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_overlay">#66000000</color>
+    <color name="orange">#f87b3c</color>
+    <color name="blue">#3DA2FF</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#41a344</color>
+    <color name="black">#000000</color>
+    <color name="tangerine">#FE5047</color>
+     <color name="yellow">#EFCA27</color>
+    <color name="magenta">#884dd8</color>
+    <color name="gray">#a5a5a5</color>
+    <color name="white">#ffffff</color>
+    <color name="black_transparent">#B2000000</color>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:background="@color/white">
+
+
+
+
+    <android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+                                       xmlns:tools="http://schemas.android.com/tools"
+                                       android:id="@+id/pager"
+                                       android:layout_width="match_parent"
+                                       android:layout_height="match_parent"
+                                       tools:context=".MainActivity"
+                                       />
+
+
+    <TextView
+            android:id="@+id/skip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/skip"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/blue"
+            android:layout_above="@+id/newUser"
+            android:layout_marginBottom="15dp"
+            android:textSize="20sp"/>
+
+
+    <Button
+            android:layout_width="125dp"
+            android:layout_height="50dp"
+            android:text="@string/new_user"
+            android:id="@+id/newUser"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="22dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/blue_gray_btn_toggle"
+            android:textColor="@color/white"
+            />
+
+    <Button
+            android:layout_width="125dp"
+            android:layout_height="50dp"
+            android:text="@string/existing_user"
+            android:id="@+id/existUser"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="22dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/blue_gray_btn_toggle"
+            android:textColor="@color/white"
+            />
+
+
+</RelativeLayout>

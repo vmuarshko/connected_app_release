@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        >
+    <PreferenceCategory android:title="@string/device_settings_title_alerts" >
+	 
+
+
+	        <SwitchPreference
+                android:icon="@drawable/ncp_social"
+                android:defaultValue="true"
+                android:enabled="true"
+                android:textColor="@color/blue"
+                android:key="set_on_alarm_social"
+                android:title="@string/pref_social"
+                android:titleTextStyle="@color/black"
+
+           />
+
+        <SwitchPreference
+                android:icon="@drawable/ncp_private"
+                android:defaultValue="true"
+                android:enabled="true"
+                android:textColor="@color/blue"
+                android:key="set_on_alarm_private"
+                android:title="@string/pref_private"
+                android:titleTextStyle="@color/black"
+
+                />
+	      
+        <SwitchPreference
+            android:icon="@drawable/ncp_email"
+            android:defaultValue="true"
+            android:enabled="true"
+            android:key="set_on_alarm_email"
+            android:title="@string/pref_mail"
+             />
+  
+      
+
+        <SwitchPreference
+            android:icon="@drawable/ncp_schedule"
+            android:defaultValue="true"
+            android:key="set_on_alarm_calendar"
+            android:title="@string/pref_event"
+             />
+        
+         <SwitchPreference
+            android:icon="@drawable/ncp_battery"
+            android:defaultValue="true"
+            android:key="set_on_alarm_battery"
+            android:title="@string/pref_battery"
+             />
+         
+         
+           <SwitchPreference
+            android:icon="@drawable/ncp_call"
+            android:defaultValue="true"
+            android:key="set_on_alarm_call"
+            android:title="@string/pref_phone"
+            />
+
+    </PreferenceCategory>
+  
+    <PreferenceCategory android:title="Controls" >
+        
+        
+        <SwitchPreference
+            android:icon="@drawable/music_control"
+            android:defaultValue="true"
+            android:textColor="@color/blue"
+            android:key="set_music_control"
+            android:title="Music"
+            />
+        
+
+    </PreferenceCategory> 
+
+</PreferenceScreen>
